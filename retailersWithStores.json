@@ -10,7 +10,10 @@
 				{
 					"id": 625,
 					"name": "Shorter Rochford Cycles",
-					"location": { "lat": 51.69157999999999, "lng": -0.1790208 },
+					"location": {
+						"latitude": 51.69157999999999,
+						"longitude": -0.1790208
+					},
 					"address": "27 Barnet Rd, Potters Bar EN6 2QX",
 					"phone": "",
 					"openingHours": "",
@@ -28,7 +31,10 @@
 				{
 					"id": 626,
 					"name": "Cycle Solutions (Cycle to Work) Ltd - Head Office",
-					"location": { "lat": 51.6450714, "lng": -3.994148199999999 },
+					"location": {
+						"latitude": 51.6450714,
+						"longitude": -3.994148199999999
+					},
 					"address": "6 Europa Way, Fforest-fach, Swansea SA5 4AJ",
 					"phone": "",
 					"retailerId": 475
@@ -45,7 +51,7 @@
 				{
 					"id": 627,
 					"name": "C W Sellors Jewellers of Chesterfield",
-					"location": { "lat": 53.2351967, "lng": -1.4292692 },
+					"location": { "latitude": 53.2351967, "longitude": -1.4292692 },
 					"address": "C W Sellors Fine Jewellery, 5 Low Pavement, Chesterfield S40 1PF",
 					"phone": "",
 					"retailerId": 471
@@ -53,7 +59,7 @@
 				{
 					"id": 628,
 					"name": "C W Sellors Jewellers of Ashbourne",
-					"location": { "lat": 53.0173652, "lng": -1.733254 },
+					"location": { "latitude": 53.0173652, "longitude": -1.733254 },
 					"address": "2 Victoria Sq, Market Place, Ashbourne DE6 1GG",
 					"phone": "",
 					"retailerId": 471
@@ -61,7 +67,7 @@
 				{
 					"id": 629,
 					"name": "C W Sellors Fine Jewellery",
-					"location": { "lat": 53.2350113, "lng": -1.4277291 },
+					"location": { "latitude": 53.2350113, "longitude": -1.4277291 },
 					"address": "Chesterfield S40 1PF",
 					"phone": "",
 					"retailerId": 471
@@ -69,7 +75,7 @@
 				{
 					"id": 630,
 					"name": "C W Sellors Jewellers of Matlock",
-					"location": { "lat": 53.1383381, "lng": -1.5558928 },
+					"location": { "latitude": 53.1383381, "longitude": -1.5558928 },
 					"address": "Crown Square, 6 Snitterton Rd, Matlock DE4 3AT",
 					"phone": "",
 					"retailerId": 471
@@ -77,7 +83,10 @@
 				{
 					"id": 631,
 					"name": "C W Sellors Fine Jewellers of Ludlow",
-					"location": { "lat": 52.36798959999999, "lng": -2.7179417 },
+					"location": {
+						"latitude": 52.36798959999999,
+						"longitude": -2.7179417
+					},
 					"address": "1 Bull Ring, Ludlow SY8 1AD",
 					"phone": "",
 					"retailerId": 471
@@ -85,7 +94,7 @@
 				{
 					"id": 632,
 					"name": "C W Sellors Jewellers of Bakewell",
-					"location": { "lat": 53.2123253, "lng": -1.6748293 },
+					"location": { "latitude": 53.2123253, "longitude": -1.6748293 },
 					"address": "Royal Oak Place, Matlock St, Bakewell DE45 1EE",
 					"phone": "",
 					"retailerId": 471
@@ -93,7 +102,7 @@
 				{
 					"id": 633,
 					"name": "C W Sellors Jewellers of Whitby",
-					"location": { "lat": 54.4875067, "lng": -0.6126342 },
+					"location": { "latitude": 54.4875067, "longitude": -0.6126342 },
 					"address": "7 Sandgate, Whitby YO22 4DB",
 					"phone": "",
 					"retailerId": 471
@@ -101,7 +110,7 @@
 				{
 					"id": 634,
 					"name": "C W Sellors Fine Jewellers of Buxton",
-					"location": { "lat": 53.259158, "lng": -1.9129934 },
+					"location": { "latitude": 53.259158, "longitude": -1.9129934 },
 					"address": "9 Grove Parade, Buxton SK17 6AJ",
 					"phone": "",
 					"retailerId": 471
@@ -109,7 +118,10 @@
 				{
 					"id": 635,
 					"name": "C W Sellors Jewellers of Chester",
-					"location": { "lat": 53.19021679999999, "lng": -2.8915046 },
+					"location": {
+						"latitude": 53.19021679999999,
+						"longitude": -2.8915046
+					},
 					"address": "2-4 Eastgate St, Chester CH1 1LF",
 					"phone": "",
 					"retailerId": 471
@@ -126,7 +138,7 @@
 				{
 					"id": 636,
 					"name": "Boutique Camping",
-					"location": { "lat": 51.469565, "lng": -0.128225 },
+					"location": { "latitude": 51.469565, "longitude": -0.128225 },
 					"address": "2G Union Court 20-22 Union Road, Union Ct, London SW4 6JP",
 					"phone": "",
 					"retailerId": 474
@@ -134,7 +146,7 @@
 				{
 					"id": 637,
 					"name": "Vintents - Classic Canvas Glamping",
-					"location": { "lat": 50.8559728, "lng": 0.1472778 },
+					"location": { "latitude": 50.8559728, "longitude": 0.1472778 },
 					"address": "Unit 10, Selmeston, Polegate BN26 6TU",
 					"phone": "",
 					"openingHours": "",
@@ -143,7 +155,7 @@
 				{
 					"id": 638,
 					"name": "Green Elephants",
-					"location": { "lat": 50.9723255, "lng": -0.1823842 },
+					"location": { "latitude": 50.9723255, "longitude": -0.1823842 },
 					"address": "Stairbridge Lane, Bolney, Haywards Heath RH17 5PA",
 					"phone": "",
 					"retailerId": 474
@@ -151,7 +163,7 @@
 				{
 					"id": 639,
 					"name": "Peel House Farm Camping & Caravan Park (Caravan Storage, Holiday Lets)",
-					"location": { "lat": 50.8409714, "lng": 0.2554264 },
+					"location": { "latitude": 50.8409714, "longitude": 0.2554264 },
 					"address": "B2104 Ersham Rd, Hailsham, Polegate BN27 2RH",
 					"phone": "",
 					"retailerId": 474
@@ -168,7 +180,7 @@
 				{
 					"id": 640,
 					"name": "Bonners Music",
-					"location": { "lat": 50.7964656, "lng": 0.2827331 },
+					"location": { "latitude": 50.7964656, "longitude": 0.2827331 },
 					"address": "9 Faraday Cl, Eastbourne BN22 9BH",
 					"phone": "",
 					"retailerId": 479
@@ -176,7 +188,7 @@
 				{
 					"id": 641,
 					"name": "Bonners Piano Centre - Reigate",
-					"location": { "lat": 51.2435925, "lng": -0.2146433 },
+					"location": { "latitude": 51.2435925, "longitude": -0.2146433 },
 					"address": "46B Albert Rd N, Reigate RH2 9EL",
 					"phone": "",
 					"retailerId": 479
@@ -193,7 +205,10 @@
 				{
 					"id": 642,
 					"name": "99 Bikes",
-					"location": { "lat": 50.8361187, "lng": -0.7680710000000001 },
+					"location": {
+						"latitude": 50.8361187,
+						"longitude": -0.7680710000000001
+					},
 					"address": "106-108 The Hornet, Chichester PO19 7JR",
 					"phone": "",
 					"retailerId": 476
@@ -201,7 +216,7 @@
 				{
 					"id": 643,
 					"name": "99 Bikes",
-					"location": { "lat": 50.91886299999999, "lng": -1.481172 },
+					"location": { "latitude": 50.91886299999999, "longitude": -1.481172 },
 					"address": "150 Commercial Rd, Totton, Southampton SO40 3AA",
 					"phone": "",
 					"retailerId": 476
@@ -209,7 +224,7 @@
 				{
 					"id": 644,
 					"name": "99 Bikes",
-					"location": { "lat": 51.5594186, "lng": -1.8065052 },
+					"location": { "latitude": 51.5594186, "longitude": -1.8065052 },
 					"address": "Paddington Dr, Swindon SN5 7SB",
 					"phone": "",
 					"retailerId": 476
@@ -217,7 +232,7 @@
 				{
 					"id": 645,
 					"name": "99 Bikes",
-					"location": { "lat": 51.0696581, "lng": -1.295726 },
+					"location": { "latitude": 51.0696581, "longitude": -1.295726 },
 					"address": "1, Winchester Trade Park, Easton Ln, Winchester SO23 7FA",
 					"phone": "",
 					"retailerId": 476
@@ -225,7 +240,7 @@
 				{
 					"id": 646,
 					"name": "Hargroves Cycles",
-					"location": { "lat": 50.852507, "lng": -1.186646 },
+					"location": { "latitude": 50.852507, "longitude": -1.186646 },
 					"address": "202 West St, Fareham PO16 0HF",
 					"phone": "",
 					"openingHours": "",
@@ -234,7 +249,7 @@
 				{
 					"id": 647,
 					"name": "Hargroves Cycles",
-					"location": { "lat": 50.9139945, "lng": -1.4477304 },
+					"location": { "latitude": 50.9139945, "longitude": -1.4477304 },
 					"address": "453 Millbrook Rd W, Southampton SO15 0HX",
 					"phone": "",
 					"openingHours": "",
@@ -243,7 +258,10 @@
 				{
 					"id": 648,
 					"name": "Hargroves Cycles",
-					"location": { "lat": 51.06626989999999, "lng": -1.3172087 },
+					"location": {
+						"latitude": 51.06626989999999,
+						"longitude": -1.3172087
+					},
 					"address": "10 City Rd, Winchester SO23 8SD",
 					"phone": "",
 					"openingHours": "",
@@ -269,7 +287,7 @@
 				{
 					"id": 649,
 					"name": "Easy Bathrooms & Tiles",
-					"location": { "lat": 50.8385505, "lng": -0.1905056 },
+					"location": { "latitude": 50.8385505, "longitude": -0.1905056 },
 					"address": "Unit 1, Delphi Close, English Cl, Hove, Brighton and Hove, Hove BN3 7EE",
 					"phone": "",
 					"retailerId": 470
@@ -277,7 +295,7 @@
 				{
 					"id": 650,
 					"name": "Easy Bathrooms & Tiles",
-					"location": { "lat": 50.9687023, "lng": 0.0923373 },
+					"location": { "latitude": 50.9687023, "longitude": 0.0923373 },
 					"address": "Unit 5, Bellbrook Industrial Estate, Uckfield TN22 1QL",
 					"phone": "",
 					"retailerId": 470
@@ -285,7 +303,7 @@
 				{
 					"id": 651,
 					"name": "Easy Bathrooms & Tiles",
-					"location": { "lat": 51.11392, "lng": -0.1807456 },
+					"location": { "latitude": 51.11392, "longitude": -0.1807456 },
 					"address": "Unit 1A, Denvale Trade Park, Denvale Retail Park, Haslett Ave E, Crawley RH10 1SS",
 					"phone": "",
 					"retailerId": 470
@@ -293,7 +311,7 @@
 				{
 					"id": 652,
 					"name": "Easy Bathrooms & Tiles",
-					"location": { "lat": 51.15424429999999, "lng": 0.2860177 },
+					"location": { "latitude": 51.15424429999999, "longitude": 0.2860177 },
 					"address": "Unit 2, Stag Park, Longfield Rd, Tunbridge Wells TN2 3BF",
 					"phone": "",
 					"retailerId": 470
@@ -301,7 +319,7 @@
 				{
 					"id": 653,
 					"name": "Easy Bathrooms & Tiles",
-					"location": { "lat": 51.0289473, "lng": -0.4451877 },
+					"location": { "latitude": 51.0289473, "longitude": -0.4451877 },
 					"address": "Unit 1, Trade Park, Stane St, Billingshurst RH14 9HN",
 					"phone": "",
 					"retailerId": 470
@@ -309,7 +327,7 @@
 				{
 					"id": 654,
 					"name": "Easy Bathrooms & Tiles",
-					"location": { "lat": 51.3916579, "lng": 0.1102671 },
+					"location": { "latitude": 51.3916579, "longitude": 0.1102671 },
 					"address": "Unit 3, Sun Business Park, Cray Ave., Orpington BR5 3FQ",
 					"phone": "",
 					"retailerId": 470
@@ -317,7 +335,7 @@
 				{
 					"id": 655,
 					"name": "Easy Bathrooms and Tiles",
-					"location": { "lat": 50.8311916, "lng": -0.755973 },
+					"location": { "latitude": 50.8311916, "longitude": -0.755973 },
 					"address": "Unit 1A, Portfield Trade Park, Chichester PO19 8NS",
 					"phone": "",
 					"retailerId": 470
@@ -325,7 +343,7 @@
 				{
 					"id": 656,
 					"name": "Easy Bathrooms & Tiles",
-					"location": { "lat": 51.4193803, "lng": 0.3574488 },
+					"location": { "latitude": 51.4193803, "longitude": 0.3574488 },
 					"address": "Unit 6, Trade City, Coldharbour Rd, Northfleet, Gravesend DA11 8AB",
 					"phone": "",
 					"retailerId": 470
@@ -333,7 +351,7 @@
 				{
 					"id": 657,
 					"name": "Easy Bathrooms & Tiles",
-					"location": { "lat": 51.289669, "lng": -0.7637681 },
+					"location": { "latitude": 51.289669, "longitude": -0.7637681 },
 					"address": "Unit 4 & 5, Kingsgrove Trade Park, Invincible Rd, Farnborough GU14 7SS",
 					"phone": "",
 					"retailerId": 470
@@ -341,7 +359,7 @@
 				{
 					"id": 658,
 					"name": "Easy Bathrooms & Tiles",
-					"location": { "lat": 51.15143579999999, "lng": 0.8548535 },
+					"location": { "latitude": 51.15143579999999, "longitude": 0.8548535 },
 					"address": "Unit D, 3-4 Hilton Rd, Ashford TN23 1EW",
 					"phone": "",
 					"retailerId": 470
@@ -349,7 +367,7 @@
 				{
 					"id": 659,
 					"name": "Easy Bathrooms & Tiles",
-					"location": { "lat": 51.5689903, "lng": -0.2290778 },
+					"location": { "latitude": 51.5689903, "longitude": -0.2290778 },
 					"address": "Unit C, Staples Corner Retail Park, Brent Cross, London NW2 6LW",
 					"phone": "",
 					"retailerId": 470
@@ -357,7 +375,10 @@
 				{
 					"id": 660,
 					"name": "Easy Bathrooms & Tiles",
-					"location": { "lat": 50.8496129, "lng": -0.9913571000000001 },
+					"location": {
+						"latitude": 50.8496129,
+						"longitude": -0.9913571000000001
+					},
 					"address": "Solent Trade Park, Unit 8C, (Unit 3D, Havant PO9 1JH",
 					"phone": "",
 					"retailerId": 470
@@ -365,7 +386,7 @@
 				{
 					"id": 661,
 					"name": "Easy Bathrooms & Tiles",
-					"location": { "lat": 51.4976421, "lng": -0.4039596 },
+					"location": { "latitude": 51.4976421, "longitude": -0.4039596 },
 					"address": "Unit 2, Trade City, Hayes Rd, Hayes, Hounslow, Southall UB2 5BE",
 					"phone": "",
 					"retailerId": 470
@@ -373,7 +394,7 @@
 				{
 					"id": 662,
 					"name": "Easy Bathrooms & Tiles",
-					"location": { "lat": 51.3703096, "lng": -0.4750711 },
+					"location": { "latitude": 51.3703096, "longitude": -0.4750711 },
 					"address": "Waterside Trading Estate, Hamm Moor Ln, Weybridge, Addlestone, 10A KT15 2SD",
 					"phone": "",
 					"retailerId": 470
@@ -381,7 +402,7 @@
 				{
 					"id": 663,
 					"name": "Easy Bathrooms & Tiles",
-					"location": { "lat": 51.6112505, "lng": -0.041517 },
+					"location": { "latitude": 51.6112505, "longitude": -0.041517 },
 					"address": "Unit 1E, ravenside retail park, Ravenside Cl, London N18 3HA",
 					"phone": "",
 					"retailerId": 470
@@ -389,7 +410,7 @@
 				{
 					"id": 664,
 					"name": "Easy Bathrooms & Tiles",
-					"location": { "lat": 51.59157769999999, "lng": 0.2156181 },
+					"location": { "latitude": 51.59157769999999, "longitude": 0.2156181 },
 					"address": "Gallows Corner, Unit 3, Burney Trade Park, Southend Arterial Rd, Romford RM3 0EZ",
 					"phone": "",
 					"retailerId": 470
@@ -397,7 +418,7 @@
 				{
 					"id": 665,
 					"name": "Easy Bathrooms & Tiles",
-					"location": { "lat": 51.4870672, "lng": 0.2757927 },
+					"location": { "latitude": 51.4870672, "longitude": 0.2757927 },
 					"address": "Lakeside Retail Park, Unit D1B RM20 1WN",
 					"phone": "",
 					"retailerId": 470
@@ -405,7 +426,7 @@
 				{
 					"id": 666,
 					"name": "Easy Bathrooms & Tiles",
-					"location": { "lat": 51.4919739, "lng": -0.3036186 },
+					"location": { "latitude": 51.4919739, "longitude": -0.3036186 },
 					"address": "Unit 3a, Phoenix Trade Park, Brentford TW8 9PL",
 					"phone": "",
 					"retailerId": 470
@@ -413,7 +434,7 @@
 				{
 					"id": 667,
 					"name": "Easy Bathrooms & Tiles",
-					"location": { "lat": 51.5231319, "lng": 0.0707954 },
+					"location": { "latitude": 51.5231319, "longitude": 0.0707954 },
 					"address": "Beckton Triangle Retail Park, 1A, Claps Gate Ln E6 6LH",
 					"phone": "",
 					"retailerId": 470
@@ -421,7 +442,10 @@
 				{
 					"id": 668,
 					"name": "Easy Bathrooms & Tiles",
-					"location": { "lat": 50.79782849999999, "lng": -1.0675498 },
+					"location": {
+						"latitude": 50.79782849999999,
+						"longitude": -1.0675498
+					},
 					"address": "Unit 10, The Pompey Centre, Dickinson Rd, Southsea, Portsmouth, Southsea PO4 8ER",
 					"phone": "",
 					"retailerId": 470
@@ -438,7 +462,10 @@
 				{
 					"id": 669,
 					"name": "Sarah Layton Jewellers",
-					"location": { "lat": 53.82194939999999, "lng": -2.4069317 },
+					"location": {
+						"latitude": 53.82194939999999,
+						"longitude": -2.4069317
+					},
 					"address": "71 King St, Whalley, Clitheroe BB7 9SW",
 					"phone": "",
 					"retailerId": 472
@@ -455,7 +482,7 @@
 				{
 					"id": 670,
 					"name": "Scottsdale Golf",
-					"location": { "lat": 53.4294462, "lng": -2.320348 },
+					"location": { "latitude": 53.4294462, "longitude": -2.320348 },
 					"address": "148 Cross St, Cheshire, Manchester M33 7AQ",
 					"phone": "",
 					"retailerId": 477
@@ -463,7 +490,7 @@
 				{
 					"id": 671,
 					"name": "Scottsdale Golf",
-					"location": { "lat": 53.356508, "lng": -2.5340371 },
+					"location": { "latitude": 53.356508, "longitude": -2.5340371 },
 					"address": "Unit 4c, Stretton Green Distribution Centre, Grappenhall Ln, Appleton Thorn, Warrington WA4 4QT",
 					"phone": "",
 					"retailerId": 477
@@ -480,7 +507,7 @@
 				{
 					"id": 672,
 					"name": "American Golf - Brighton",
-					"location": { "lat": 50.8412334, "lng": -0.2502271 },
+					"location": { "latitude": 50.8412334, "longitude": -0.2502271 },
 					"address": "2-3 Royal George Parade, Shoreham-by-Sea BN43 6TB",
 					"phone": "",
 					"retailerId": 473
@@ -488,7 +515,7 @@
 				{
 					"id": 673,
 					"name": "American Golf - Rustington",
-					"location": { "lat": 50.8221702, "lng": -0.5026256 },
+					"location": { "latitude": 50.8221702, "longitude": -0.5026256 },
 					"address": "Golfers Ln, Angmering, Littlehampton BN16 4NB",
 					"phone": "",
 					"retailerId": 473
@@ -496,7 +523,7 @@
 				{
 					"id": 674,
 					"name": "American Golf - Tonbridge",
-					"location": { "lat": 51.198269, "lng": 0.284794 },
+					"location": { "latitude": 51.198269, "longitude": 0.284794 },
 					"address": "Golf Centre, Cannon Ln, Tonbridge TN9 1PP",
 					"phone": "",
 					"retailerId": 473
@@ -504,7 +531,7 @@
 				{
 					"id": 675,
 					"name": "American Golf - Sidcup",
-					"location": { "lat": 51.4314598, "lng": 0.0768623 },
+					"location": { "latitude": 51.4314598, "longitude": 0.0768623 },
 					"address": "A20 Sidcup By-Pass, London BR7 6RP",
 					"phone": "",
 					"retailerId": 473
@@ -512,7 +539,7 @@
 				{
 					"id": 676,
 					"name": "American Golf - London - Greenwich",
-					"location": { "lat": 51.4980801, "lng": 0.0009369 },
+					"location": { "latitude": 51.4980801, "longitude": 0.0009369 },
 					"address": "Peninsula Golf Range, Greenwich, 265, Tunnel Ave, London SE10 0QE",
 					"phone": "",
 					"retailerId": 473
@@ -520,7 +547,7 @@
 				{
 					"id": 677,
 					"name": "American Golf",
-					"location": { "lat": 51.50968, "lng": -0.086182 },
+					"location": { "latitude": 51.50968, "longitude": -0.086182 },
 					"address": "30 Fish St Hill, Monument St, London EC3R 6DN",
 					"phone": "",
 					"retailerId": 473
@@ -528,7 +555,7 @@
 				{
 					"id": 678,
 					"name": "American Golf - New Malden",
-					"location": { "lat": 51.4040487, "lng": -0.2431344 },
+					"location": { "latitude": 51.4040487, "longitude": -0.2431344 },
 					"address": "Beverly Park, Beverley Way, New Malden KT3 4PH",
 					"phone": "",
 					"retailerId": 473
@@ -536,7 +563,7 @@
 				{
 					"id": 679,
 					"name": "American Golf - Camberley",
-					"location": { "lat": 51.3488841, "lng": -0.7134419 },
+					"location": { "latitude": 51.3488841, "longitude": -0.7134419 },
 					"address": "1 London Rd, Camberley GU15 3UZ",
 					"phone": "",
 					"retailerId": 473
@@ -544,7 +571,7 @@
 				{
 					"id": 680,
 					"name": "American Golf - Guildford",
-					"location": { "lat": 51.2312454, "lng": -0.6102948 },
+					"location": { "latitude": 51.2312454, "longitude": -0.6102948 },
 					"address": "Road, A3 By-Pass Guildford and Godalming Bypass Portsmouth, Guildford GU2 7RZ",
 					"phone": "",
 					"retailerId": 473
@@ -552,7 +579,7 @@
 				{
 					"id": 681,
 					"name": "American Golf - Thurrock",
-					"location": { "lat": 51.48494119999999, "lng": 0.2729853 },
+					"location": { "latitude": 51.48494119999999, "longitude": 0.2729853 },
 					"address": "Tunnel Industrial Estate, 8 Weston Ave, West Thurrock, Grays RM20 3LR",
 					"phone": "",
 					"retailerId": 473
@@ -560,7 +587,7 @@
 				{
 					"id": 682,
 					"name": "American Golf - Sandown",
-					"location": { "lat": 51.376231, "lng": -0.364788 },
+					"location": { "latitude": 51.376231, "longitude": -0.364788 },
 					"address": "Sandown Park, More Ln, Esher KT10 8AN",
 					"phone": "",
 					"retailerId": 473
@@ -568,7 +595,7 @@
 				{
 					"id": 683,
 					"name": "American Golf - Southampton",
-					"location": { "lat": 50.9241454, "lng": -1.310523 },
+					"location": { "latitude": 50.9241454, "longitude": -1.310523 },
 					"address": "Hedge End Trade Park, Tollbar Way, Southampton SO30 2JN",
 					"phone": "",
 					"retailerId": 473
@@ -576,7 +603,7 @@
 				{
 					"id": 684,
 					"name": "American Golf - Watford",
-					"location": { "lat": 51.672208, "lng": -0.379166 },
+					"location": { "latitude": 51.672208, "longitude": -0.379166 },
 					"address": "Clubhouse, American Golf Clubhouse, Bushey Mill Ln, Watford WD24 7AB",
 					"phone": "",
 					"retailerId": 473
@@ -584,7 +611,7 @@
 				{
 					"id": 685,
 					"name": "American Golf - London - Trent Park",
-					"location": { "lat": 51.6492107, "lng": -0.1311148 },
+					"location": { "latitude": 51.6492107, "longitude": -0.1311148 },
 					"address": "Trent Park Golf Club, Bramley Rd, London N14 4UW",
 					"phone": "",
 					"retailerId": 473
@@ -592,7 +619,7 @@
 				{
 					"id": 686,
 					"name": "American Golf - Hendon",
-					"location": { "lat": 51.604858, "lng": -0.2244652 },
+					"location": { "latitude": 51.604858, "longitude": -0.2244652 },
 					"address": "Barnet Copthall Champions Way, Hendon Metro Golf Centre, London NW4 1PX",
 					"phone": "",
 					"retailerId": 473
@@ -600,7 +627,7 @@
 				{
 					"id": 687,
 					"name": "American Golf - Canterbury",
-					"location": { "lat": 51.2728292, "lng": 1.0670065 },
+					"location": { "latitude": 51.2728292, "longitude": 1.0670065 },
 					"address": "26 Maynard Rd, Wincheap Industrial Estate, Canterbury CT1 3RH",
 					"phone": "",
 					"retailerId": 473
@@ -608,7 +635,7 @@
 				{
 					"id": 688,
 					"name": "American Golf - Basingstoke",
-					"location": { "lat": 51.2358276, "lng": -1.1379753 },
+					"location": { "latitude": 51.2358276, "longitude": -1.1379753 },
 					"address": "American Golf, 5 Wallop Dr, Basingstoke RG22 4TW",
 					"phone": "",
 					"retailerId": 473
@@ -616,7 +643,7 @@
 				{
 					"id": 689,
 					"name": "American Golf - Northolt",
-					"location": { "lat": 51.5421318, "lng": -0.3956989 },
+					"location": { "latitude": 51.5421318, "longitude": -0.3956989 },
 					"address": "W End Rd, Northolt UB5 6QZ",
 					"phone": "",
 					"retailerId": 473
@@ -624,7 +651,7 @@
 				{
 					"id": 690,
 					"name": "American Golf - Eastleigh",
-					"location": { "lat": 50.966707, "lng": -1.3865011 },
+					"location": { "latitude": 50.966707, "longitude": -1.3865011 },
 					"address": "Chestnut Retail Park, 3 Chestnut Ave, Chandler's Ford, Eastleigh SO53 3TF",
 					"phone": "",
 					"retailerId": 473
@@ -632,7 +659,7 @@
 				{
 					"id": 691,
 					"name": "American Golf - Slough",
-					"location": { "lat": 51.513427, "lng": -0.618109 },
+					"location": { "latitude": 51.513427, "longitude": -0.618109 },
 					"address": "American Golf, 175 Bath Rd, Slough SL1 4AA",
 					"phone": "",
 					"retailerId": 473
