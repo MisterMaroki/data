@@ -1,23 +1,39 @@
 {
 	"data": [
 		{
+			"name": "MyDentist",
+			"url": "https://www.mydentist.co.uk/",
+			"category": "Healthcare",
+			"image": "https://apptopay.com/img/clients/mydentist.jpg",
+			"id": 73,
+			"stores": []
+		},
+		{
+			"name": "Celtic FC",
+			"url": "https://www.celticfc.com/",
+			"category": "Season Tickets",
+			"image": "https://atp-directory.s3.eu-west-2.amazonaws.com/celtic-logo.jpg",
+			"id": 84,
+			"stores": []
+		},
+		{
 			"name": "Shorter Rochford Cycles",
 			"url": "https://shorter-rochford.co.uk/",
 			"category": "Leisure and Lifestyle",
 			"image": "https://atp-directory.s3.eu-west-2.amazonaws.com/Rochford.png",
-			"id": 478,
+			"id": 82,
 			"stores": [
 				{
-					"id": 625,
+					"id": 97,
 					"name": "Shorter Rochford Cycles",
 					"location": {
 						"latitude": 51.69157999999999,
 						"longitude": -0.1790208
 					},
 					"address": "27 Barnet Rd, Potters Bar EN6 2QX",
-					"phone": "",
-					"openingHours": "",
-					"retailerId": 478
+					"phone": "01707 662332",
+					"openingHours": [],
+					"retailerId": 82
 				}
 			]
 		},
@@ -26,449 +42,27 @@
 			"url": "https://www.cyclesolutions.co.uk/",
 			"category": "Leisure and Lifestyle",
 			"image": "https://apptopay.com/img/clients/cycle-solutions.jpg",
-			"id": 475,
+			"id": 79,
 			"stores": [
 				{
-					"id": 626,
+					"id": 103,
 					"name": "Cycle Solutions (Cycle to Work) Ltd - Head Office",
 					"location": {
 						"latitude": 51.6450714,
 						"longitude": -3.994148199999999
 					},
 					"address": "6 Europa Way, Fforest-fach, Swansea SA5 4AJ",
-					"phone": "",
-					"retailerId": 475
-				}
-			]
-		},
-		{
-			"name": "CW Sellors",
-			"url": "https://www.cwsellors.co.uk/",
-			"category": "Jewellery",
-			"image": "https://apptopay.com/img/clients/cw-sellors.jpg",
-			"id": 471,
-			"stores": [
-				{
-					"id": 627,
-					"name": "C W Sellors Jewellers of Chesterfield",
-					"location": { "latitude": 53.2351967, "longitude": -1.4292692 },
-					"address": "C W Sellors Fine Jewellery, 5 Low Pavement, Chesterfield S40 1PF",
-					"phone": "",
-					"retailerId": 471
-				},
-				{
-					"id": 628,
-					"name": "C W Sellors Jewellers of Ashbourne",
-					"location": { "latitude": 53.0173652, "longitude": -1.733254 },
-					"address": "2 Victoria Sq, Market Place, Ashbourne DE6 1GG",
-					"phone": "",
-					"retailerId": 471
-				},
-				{
-					"id": 629,
-					"name": "C W Sellors Fine Jewellery",
-					"location": { "latitude": 53.2350113, "longitude": -1.4277291 },
-					"address": "Chesterfield S40 1PF",
-					"phone": "",
-					"retailerId": 471
-				},
-				{
-					"id": 630,
-					"name": "C W Sellors Jewellers of Matlock",
-					"location": { "latitude": 53.1383381, "longitude": -1.5558928 },
-					"address": "Crown Square, 6 Snitterton Rd, Matlock DE4 3AT",
-					"phone": "",
-					"retailerId": 471
-				},
-				{
-					"id": 631,
-					"name": "C W Sellors Fine Jewellers of Ludlow",
-					"location": {
-						"latitude": 52.36798959999999,
-						"longitude": -2.7179417
-					},
-					"address": "1 Bull Ring, Ludlow SY8 1AD",
-					"phone": "",
-					"retailerId": 471
-				},
-				{
-					"id": 632,
-					"name": "C W Sellors Jewellers of Bakewell",
-					"location": { "latitude": 53.2123253, "longitude": -1.6748293 },
-					"address": "Royal Oak Place, Matlock St, Bakewell DE45 1EE",
-					"phone": "",
-					"retailerId": 471
-				},
-				{
-					"id": 633,
-					"name": "C W Sellors Jewellers of Whitby",
-					"location": { "latitude": 54.4875067, "longitude": -0.6126342 },
-					"address": "7 Sandgate, Whitby YO22 4DB",
-					"phone": "",
-					"retailerId": 471
-				},
-				{
-					"id": 634,
-					"name": "C W Sellors Fine Jewellers of Buxton",
-					"location": { "latitude": 53.259158, "longitude": -1.9129934 },
-					"address": "9 Grove Parade, Buxton SK17 6AJ",
-					"phone": "",
-					"retailerId": 471
-				},
-				{
-					"id": 635,
-					"name": "C W Sellors Jewellers of Chester",
-					"location": {
-						"latitude": 53.19021679999999,
-						"longitude": -2.8915046
-					},
-					"address": "2-4 Eastgate St, Chester CH1 1LF",
-					"phone": "",
-					"retailerId": 471
-				}
-			]
-		},
-		{
-			"name": "Boutique Camping",
-			"url": "https://boutiquecamping.com/",
-			"category": "Leisure and Lifestyle",
-			"image": "https://www.apptopay.com/img/clients/boutique-camping.jpg",
-			"id": 474,
-			"stores": [
-				{
-					"id": 636,
-					"name": "Boutique Camping",
-					"location": { "latitude": 51.469565, "longitude": -0.128225 },
-					"address": "2G Union Court 20-22 Union Road, Union Ct, London SW4 6JP",
-					"phone": "",
-					"retailerId": 474
-				},
-				{
-					"id": 637,
-					"name": "Vintents - Classic Canvas Glamping",
-					"location": { "latitude": 50.8559728, "longitude": 0.1472778 },
-					"address": "Unit 10, Selmeston, Polegate BN26 6TU",
-					"phone": "",
-					"openingHours": "",
-					"retailerId": 474
-				},
-				{
-					"id": 638,
-					"name": "Green Elephants",
-					"location": { "latitude": 50.9723255, "longitude": -0.1823842 },
-					"address": "Stairbridge Lane, Bolney, Haywards Heath RH17 5PA",
-					"phone": "",
-					"retailerId": 474
-				},
-				{
-					"id": 639,
-					"name": "Peel House Farm Camping & Caravan Park (Caravan Storage, Holiday Lets)",
-					"location": { "latitude": 50.8409714, "longitude": 0.2554264 },
-					"address": "B2104 Ersham Rd, Hailsham, Polegate BN27 2RH",
-					"phone": "",
-					"retailerId": 474
-				}
-			]
-		},
-		{
-			"name": "Bonners",
-			"url": "https://www.bonnersmusic.co.uk/",
-			"category": "Music",
-			"image": "https://apptopay.com/img/clients/bonners.jpg",
-			"id": 479,
-			"stores": [
-				{
-					"id": 640,
-					"name": "Bonners Music",
-					"location": { "latitude": 50.7964656, "longitude": 0.2827331 },
-					"address": "9 Faraday Cl, Eastbourne BN22 9BH",
-					"phone": "",
-					"retailerId": 479
-				},
-				{
-					"id": 641,
-					"name": "Bonners Piano Centre - Reigate",
-					"location": { "latitude": 51.2435925, "longitude": -0.2146433 },
-					"address": "46B Albert Rd N, Reigate RH2 9EL",
-					"phone": "",
-					"retailerId": 479
-				}
-			]
-		},
-		{
-			"name": "Hargroves Cycles",
-			"url": "https://www.hargrovescycles.co.uk/",
-			"category": "Leisure and Lifestyle",
-			"image": null,
-			"id": 476,
-			"stores": [
-				{
-					"id": 642,
-					"name": "99 Bikes",
-					"location": {
-						"latitude": 50.8361187,
-						"longitude": -0.7680710000000001
-					},
-					"address": "106-108 The Hornet, Chichester PO19 7JR",
-					"phone": "",
-					"retailerId": 476
-				},
-				{
-					"id": 643,
-					"name": "99 Bikes",
-					"location": { "latitude": 50.91886299999999, "longitude": -1.481172 },
-					"address": "150 Commercial Rd, Totton, Southampton SO40 3AA",
-					"phone": "",
-					"retailerId": 476
-				},
-				{
-					"id": 644,
-					"name": "99 Bikes",
-					"location": { "latitude": 51.5594186, "longitude": -1.8065052 },
-					"address": "Paddington Dr, Swindon SN5 7SB",
-					"phone": "",
-					"retailerId": 476
-				},
-				{
-					"id": 645,
-					"name": "99 Bikes",
-					"location": { "latitude": 51.0696581, "longitude": -1.295726 },
-					"address": "1, Winchester Trade Park, Easton Ln, Winchester SO23 7FA",
-					"phone": "",
-					"retailerId": 476
-				},
-				{
-					"id": 646,
-					"name": "Hargroves Cycles",
-					"location": { "latitude": 50.852507, "longitude": -1.186646 },
-					"address": "202 West St, Fareham PO16 0HF",
-					"phone": "",
-					"openingHours": "",
-					"retailerId": 476
-				},
-				{
-					"id": 647,
-					"name": "Hargroves Cycles",
-					"location": { "latitude": 50.9139945, "longitude": -1.4477304 },
-					"address": "453 Millbrook Rd W, Southampton SO15 0HX",
-					"phone": "",
-					"openingHours": "",
-					"retailerId": 476
-				},
-				{
-					"id": 648,
-					"name": "Hargroves Cycles",
-					"location": {
-						"latitude": 51.06626989999999,
-						"longitude": -1.3172087
-					},
-					"address": "10 City Rd, Winchester SO23 8SD",
-					"phone": "",
-					"openingHours": "",
-					"retailerId": 476
-				}
-			]
-		},
-		{
-			"name": "Celtic FC",
-			"url": "https://www.celticfc.com/",
-			"category": "Season Tickets",
-			"image": "https://atp-directory.s3.eu-west-2.amazonaws.com/celtic-logo.jpg",
-			"id": 480,
-			"stores": []
-		},
-		{
-			"name": "Easy Bathrooms",
-			"url": "https://www.easybathrooms.com/",
-			"category": "Home Improvements",
-			"image": "https://apptopay.com/img/clients/easy-bathrooms.jpg",
-			"id": 470,
-			"stores": [
-				{
-					"id": 649,
-					"name": "Easy Bathrooms & Tiles",
-					"location": { "latitude": 50.8385505, "longitude": -0.1905056 },
-					"address": "Unit 1, Delphi Close, English Cl, Hove, Brighton and Hove, Hove BN3 7EE",
-					"phone": "",
-					"retailerId": 470
-				},
-				{
-					"id": 650,
-					"name": "Easy Bathrooms & Tiles",
-					"location": { "latitude": 50.9687023, "longitude": 0.0923373 },
-					"address": "Unit 5, Bellbrook Industrial Estate, Uckfield TN22 1QL",
-					"phone": "",
-					"retailerId": 470
-				},
-				{
-					"id": 651,
-					"name": "Easy Bathrooms & Tiles",
-					"location": { "latitude": 51.11392, "longitude": -0.1807456 },
-					"address": "Unit 1A, Denvale Trade Park, Denvale Retail Park, Haslett Ave E, Crawley RH10 1SS",
-					"phone": "",
-					"retailerId": 470
-				},
-				{
-					"id": 652,
-					"name": "Easy Bathrooms & Tiles",
-					"location": { "latitude": 51.15424429999999, "longitude": 0.2860177 },
-					"address": "Unit 2, Stag Park, Longfield Rd, Tunbridge Wells TN2 3BF",
-					"phone": "",
-					"retailerId": 470
-				},
-				{
-					"id": 653,
-					"name": "Easy Bathrooms & Tiles",
-					"location": { "latitude": 51.0289473, "longitude": -0.4451877 },
-					"address": "Unit 1, Trade Park, Stane St, Billingshurst RH14 9HN",
-					"phone": "",
-					"retailerId": 470
-				},
-				{
-					"id": 654,
-					"name": "Easy Bathrooms & Tiles",
-					"location": { "latitude": 51.3916579, "longitude": 0.1102671 },
-					"address": "Unit 3, Sun Business Park, Cray Ave., Orpington BR5 3FQ",
-					"phone": "",
-					"retailerId": 470
-				},
-				{
-					"id": 655,
-					"name": "Easy Bathrooms and Tiles",
-					"location": { "latitude": 50.8311916, "longitude": -0.755973 },
-					"address": "Unit 1A, Portfield Trade Park, Chichester PO19 8NS",
-					"phone": "",
-					"retailerId": 470
-				},
-				{
-					"id": 656,
-					"name": "Easy Bathrooms & Tiles",
-					"location": { "latitude": 51.4193803, "longitude": 0.3574488 },
-					"address": "Unit 6, Trade City, Coldharbour Rd, Northfleet, Gravesend DA11 8AB",
-					"phone": "",
-					"retailerId": 470
-				},
-				{
-					"id": 657,
-					"name": "Easy Bathrooms & Tiles",
-					"location": { "latitude": 51.289669, "longitude": -0.7637681 },
-					"address": "Unit 4 & 5, Kingsgrove Trade Park, Invincible Rd, Farnborough GU14 7SS",
-					"phone": "",
-					"retailerId": 470
-				},
-				{
-					"id": 658,
-					"name": "Easy Bathrooms & Tiles",
-					"location": { "latitude": 51.15143579999999, "longitude": 0.8548535 },
-					"address": "Unit D, 3-4 Hilton Rd, Ashford TN23 1EW",
-					"phone": "",
-					"retailerId": 470
-				},
-				{
-					"id": 659,
-					"name": "Easy Bathrooms & Tiles",
-					"location": { "latitude": 51.5689903, "longitude": -0.2290778 },
-					"address": "Unit C, Staples Corner Retail Park, Brent Cross, London NW2 6LW",
-					"phone": "",
-					"retailerId": 470
-				},
-				{
-					"id": 660,
-					"name": "Easy Bathrooms & Tiles",
-					"location": {
-						"latitude": 50.8496129,
-						"longitude": -0.9913571000000001
-					},
-					"address": "Solent Trade Park, Unit 8C, (Unit 3D, Havant PO9 1JH",
-					"phone": "",
-					"retailerId": 470
-				},
-				{
-					"id": 661,
-					"name": "Easy Bathrooms & Tiles",
-					"location": { "latitude": 51.4976421, "longitude": -0.4039596 },
-					"address": "Unit 2, Trade City, Hayes Rd, Hayes, Hounslow, Southall UB2 5BE",
-					"phone": "",
-					"retailerId": 470
-				},
-				{
-					"id": 662,
-					"name": "Easy Bathrooms & Tiles",
-					"location": { "latitude": 51.3703096, "longitude": -0.4750711 },
-					"address": "Waterside Trading Estate, Hamm Moor Ln, Weybridge, Addlestone, 10A KT15 2SD",
-					"phone": "",
-					"retailerId": 470
-				},
-				{
-					"id": 663,
-					"name": "Easy Bathrooms & Tiles",
-					"location": { "latitude": 51.6112505, "longitude": -0.041517 },
-					"address": "Unit 1E, ravenside retail park, Ravenside Cl, London N18 3HA",
-					"phone": "",
-					"retailerId": 470
-				},
-				{
-					"id": 664,
-					"name": "Easy Bathrooms & Tiles",
-					"location": { "latitude": 51.59157769999999, "longitude": 0.2156181 },
-					"address": "Gallows Corner, Unit 3, Burney Trade Park, Southend Arterial Rd, Romford RM3 0EZ",
-					"phone": "",
-					"retailerId": 470
-				},
-				{
-					"id": 665,
-					"name": "Easy Bathrooms & Tiles",
-					"location": { "latitude": 51.4870672, "longitude": 0.2757927 },
-					"address": "Lakeside Retail Park, Unit D1B RM20 1WN",
-					"phone": "",
-					"retailerId": 470
-				},
-				{
-					"id": 666,
-					"name": "Easy Bathrooms & Tiles",
-					"location": { "latitude": 51.4919739, "longitude": -0.3036186 },
-					"address": "Unit 3a, Phoenix Trade Park, Brentford TW8 9PL",
-					"phone": "",
-					"retailerId": 470
-				},
-				{
-					"id": 667,
-					"name": "Easy Bathrooms & Tiles",
-					"location": { "latitude": 51.5231319, "longitude": 0.0707954 },
-					"address": "Beckton Triangle Retail Park, 1A, Claps Gate Ln E6 6LH",
-					"phone": "",
-					"retailerId": 470
-				},
-				{
-					"id": 668,
-					"name": "Easy Bathrooms & Tiles",
-					"location": {
-						"latitude": 50.79782849999999,
-						"longitude": -1.0675498
-					},
-					"address": "Unit 10, The Pompey Centre, Dickinson Rd, Southsea, Portsmouth, Southsea PO4 8ER",
-					"phone": "",
-					"retailerId": 470
-				}
-			]
-		},
-		{
-			"name": "Sarah Layton Fine Jewellery",
-			"url": "https://sarahlayton.co.uk/",
-			"category": "Jewellery",
-			"image": "https://apptopay.com/img/clients/sarah-layton.jpg",
-			"id": 472,
-			"stores": [
-				{
-					"id": 669,
-					"name": "Sarah Layton Jewellers",
-					"location": {
-						"latitude": 53.82194939999999,
-						"longitude": -2.4069317
-					},
-					"address": "71 King St, Whalley, Clitheroe BB7 9SW",
-					"phone": "",
-					"retailerId": 472
+					"phone": "0330 100 2480",
+					"openingHours": [
+						{ "weekday": "Monday", "open": "9:00 am", "close": "5:30 pm" },
+						{ "weekday": "Tuesday", "open": "9:00 am", "close": "5:30 pm" },
+						{ "weekday": "Wednesday", "open": "9:00 am", "close": "5:30 pm" },
+						{ "weekday": "Thursday", "open": "9:00 am", "close": "5:30 pm" },
+						{ "weekday": "Friday", "open": "9:00 am", "close": "5:30 pm" },
+						{ "weekday": "Saturday", "open": "9:00 am", "close": "1:00 am" },
+						{ "weekday": "Sunday", "open": "Closed" }
+					],
+					"retailerId": 79
 				}
 			]
 		},
@@ -477,23 +71,793 @@
 			"url": "https://www.scottsdalegolf.co.uk/",
 			"category": "Leisure and Lifestyle",
 			"image": "https://apptopay.com/img/clients/scottsdale.png",
-			"id": 477,
+			"id": 81,
 			"stores": [
 				{
-					"id": 670,
+					"id": 105,
 					"name": "Scottsdale Golf",
 					"location": { "latitude": 53.4294462, "longitude": -2.320348 },
 					"address": "148 Cross St, Cheshire, Manchester M33 7AQ",
-					"phone": "",
-					"retailerId": 477
+					"phone": "0161 969 4644",
+					"openingHours": [
+						{ "weekday": "Monday", "open": "9:30 am", "close": "6:30 pm" },
+						{ "weekday": "Tuesday", "open": "9:30 am", "close": "6:30 pm" },
+						{ "weekday": "Wednesday", "open": "9:30 am", "close": "6:30 pm" },
+						{ "weekday": "Thursday", "open": "9:30 am", "close": "6:30 pm" },
+						{ "weekday": "Friday", "open": "9:30 am", "close": "6:00 pm" },
+						{ "weekday": "Saturday", "open": "9:30 am", "close": "5:30 pm" },
+						{ "weekday": "Sunday", "open": "10:00 am", "close": "4:00 pm" }
+					],
+					"retailerId": 81
 				},
 				{
-					"id": 671,
+					"id": 110,
 					"name": "Scottsdale Golf",
 					"location": { "latitude": 53.356508, "longitude": -2.5340371 },
 					"address": "Unit 4c, Stretton Green Distribution Centre, Grappenhall Ln, Appleton Thorn, Warrington WA4 4QT",
-					"phone": "",
-					"retailerId": 477
+					"phone": "0161 969 4644",
+					"openingHours": [
+						{ "weekday": "Monday", "open": "9:00 am", "close": "7:00 pm" },
+						{ "weekday": "Tuesday", "open": "9:00 am", "close": "7:00 pm" },
+						{ "weekday": "Wednesday", "open": "9:00 am", "close": "7:00 pm" },
+						{ "weekday": "Thursday", "open": "9:00 am", "close": "7:00 pm" },
+						{ "weekday": "Friday", "open": "9:00 am", "close": "7:00 pm" },
+						{ "weekday": "Saturday", "open": "9:00 am", "close": "5:00 pm" },
+						{ "weekday": "Sunday", "open": "9:00 am", "close": "5:00 pm" }
+					],
+					"retailerId": 81
+				}
+			]
+		},
+		{
+			"name": "CW Sellors",
+			"url": "https://www.cwsellors.co.uk/",
+			"category": "Jewellery",
+			"image": "https://apptopay.com/img/clients/cw-sellors.jpg",
+			"id": 75,
+			"stores": [
+				{
+					"id": 102,
+					"name": "C W Sellors Jewellers of Chesterfield",
+					"location": { "latitude": 53.2351967, "longitude": -1.4292692 },
+					"address": "C W Sellors Fine Jewellery, 5 Low Pavement, Chesterfield S40 1PF",
+					"phone": "01246 555434",
+					"openingHours": [
+						{ "weekday": "Monday", "open": "9:00 am", "close": "5:30 pm" },
+						{ "weekday": "Tuesday", "open": "9:00 am", "close": "5:30 pm" },
+						{ "weekday": "Wednesday", "open": "9:00 am", "close": "5:30 pm" },
+						{ "weekday": "Thursday", "open": "9:00 am", "close": "5:30 pm" },
+						{ "weekday": "Friday", "open": "9:00 am", "close": "5:30 pm" },
+						{ "weekday": "Saturday", "open": "9:00 am", "close": "5:30 pm" },
+						{ "weekday": "Sunday", "open": "Closed" }
+					],
+					"retailerId": 75
+				},
+				{
+					"id": 98,
+					"name": "C W Sellors Jewellers of Ashbourne",
+					"location": { "latitude": 53.0173652, "longitude": -1.733254 },
+					"address": "2 Victoria Sq, Market Place, Ashbourne DE6 1GG",
+					"phone": "01335 342002",
+					"openingHours": [
+						{ "weekday": "Monday", "open": "10:00 am", "close": "5:00 pm" },
+						{ "weekday": "Tuesday", "open": "10:00 am", "close": "5:00 pm" },
+						{ "weekday": "Wednesday", "open": "10:00 am", "close": "5:00 pm" },
+						{ "weekday": "Thursday", "open": "10:00 am", "close": "5:00 pm" },
+						{ "weekday": "Friday", "open": "10:00 am", "close": "5:00 pm" },
+						{ "weekday": "Saturday", "open": "10:00 am", "close": "5:00 pm" },
+						{ "weekday": "Sunday", "open": "Closed" }
+					],
+					"retailerId": 75
+				},
+				{
+					"id": 99,
+					"name": "C W Sellors Fine Jewellery",
+					"location": { "latitude": 53.2350113, "longitude": -1.4277291 },
+					"address": "Chesterfield S40 1PF",
+					"phone": "01246 555434",
+					"openingHours": [
+						{ "weekday": "Monday", "open": "9:00 am", "close": "5:00 pm" },
+						{ "weekday": "Tuesday", "open": "9:00 am", "close": "5:00 pm" },
+						{ "weekday": "Wednesday", "open": "9:00 am", "close": "5:00 pm" },
+						{ "weekday": "Thursday", "open": "9:00 am", "close": "5:00 pm" },
+						{ "weekday": "Friday", "open": "9:00 am", "close": "5:00 pm" },
+						{ "weekday": "Saturday", "open": "9:00 am", "close": "5:00 pm" },
+						{ "weekday": "Sunday", "open": "Closed" }
+					],
+					"retailerId": 75
+				},
+				{
+					"id": 101,
+					"name": "C W Sellors Jewellers of Matlock",
+					"location": { "latitude": 53.1383381, "longitude": -1.5558928 },
+					"address": "Crown Square, 6 Snitterton Rd, Matlock DE4 3AT",
+					"phone": "01629 581878",
+					"openingHours": [
+						{ "weekday": "Monday", "open": "9:00 am", "close": "5:00 pm" },
+						{ "weekday": "Tuesday", "open": "9:00 am", "close": "5:00 pm" },
+						{ "weekday": "Wednesday", "open": "9:00 am", "close": "5:00 pm" },
+						{ "weekday": "Thursday", "open": "9:00 am", "close": "5:00 pm" },
+						{ "weekday": "Friday", "open": "9:00 am", "close": "5:00 pm" },
+						{ "weekday": "Saturday", "open": "9:00 am", "close": "5:00 pm" },
+						{ "weekday": "Sunday", "open": "Closed" }
+					],
+					"retailerId": 75
+				},
+				{
+					"id": 100,
+					"name": "C W Sellors Jewellers of Bakewell",
+					"location": { "latitude": 53.2123253, "longitude": -1.6748293 },
+					"address": "Royal Oak Place, Matlock St, Bakewell DE45 1EE",
+					"phone": "01629 812155",
+					"openingHours": [
+						{ "weekday": "Monday", "open": "9:30 am", "close": "5:00 pm" },
+						{ "weekday": "Tuesday", "open": "9:30 am", "close": "5:00 pm" },
+						{ "weekday": "Wednesday", "open": "9:30 am", "close": "5:00 pm" },
+						{ "weekday": "Thursday", "open": "9:30 am", "close": "5:00 pm" },
+						{ "weekday": "Friday", "open": "9:30 am", "close": "5:00 pm" },
+						{ "weekday": "Saturday", "open": "9:30 am", "close": "5:00 pm" },
+						{ "weekday": "Sunday", "open": "10:30 am", "close": "4:00 pm" }
+					],
+					"retailerId": 75
+				},
+				{
+					"id": 113,
+					"name": "C W Sellors Fine Jewellers of Ludlow",
+					"location": {
+						"latitude": 52.36798959999999,
+						"longitude": -2.7179417
+					},
+					"address": "1 Bull Ring, Ludlow SY8 1AD",
+					"phone": "01584 879690",
+					"openingHours": [
+						{ "weekday": "Monday", "open": "9:00 am", "close": "5:30 pm" },
+						{ "weekday": "Tuesday", "open": "9:00 am", "close": "5:30 pm" },
+						{ "weekday": "Wednesday", "open": "9:00 am", "close": "5:30 pm" },
+						{ "weekday": "Thursday", "open": "9:00 am", "close": "5:30 pm" },
+						{ "weekday": "Friday", "open": "9:00 am", "close": "5:30 pm" },
+						{ "weekday": "Saturday", "open": "9:00 am", "close": "5:30 pm" },
+						{ "weekday": "Sunday", "open": "Closed" }
+					],
+					"retailerId": 75
+				},
+				{
+					"id": 108,
+					"name": "C W Sellors Jewellers of Whitby",
+					"location": { "latitude": 54.4875067, "longitude": -0.6126342 },
+					"address": "7 Sandgate, Whitby YO22 4DB",
+					"phone": "01947 821201",
+					"openingHours": [
+						{ "weekday": "Monday", "open": "9:00 am", "close": "5:30 pm" },
+						{ "weekday": "Tuesday", "open": "9:00 am", "close": "5:30 pm" },
+						{ "weekday": "Wednesday", "open": "9:00 am", "close": "5:30 pm" },
+						{ "weekday": "Thursday", "open": "9:00 am", "close": "5:30 pm" },
+						{ "weekday": "Friday", "open": "9:00 am", "close": "5:30 pm" },
+						{ "weekday": "Saturday", "open": "9:00 am", "close": "5:30 pm" },
+						{ "weekday": "Sunday", "open": "9:00 am", "close": "5:30 pm" }
+					],
+					"retailerId": 75
+				},
+				{
+					"id": 107,
+					"name": "C W Sellors Fine Jewellers of Buxton",
+					"location": { "latitude": 53.259158, "longitude": -1.9129934 },
+					"address": "9 Grove Parade, Buxton SK17 6AJ",
+					"phone": "01298 24684",
+					"openingHours": [
+						{ "weekday": "Monday", "open": "9:00 am", "close": "5:30 pm" },
+						{ "weekday": "Tuesday", "open": "9:00 am", "close": "5:30 pm" },
+						{ "weekday": "Wednesday", "open": "9:00 am", "close": "5:30 pm" },
+						{ "weekday": "Thursday", "open": "9:00 am", "close": "5:30 pm" },
+						{ "weekday": "Friday", "open": "9:00 am", "close": "5:30 pm" },
+						{ "weekday": "Saturday", "open": "9:00 am", "close": "5:30 pm" },
+						{ "weekday": "Sunday", "open": "Closed" }
+					],
+					"retailerId": 75
+				},
+				{
+					"id": 106,
+					"name": "C W Sellors Jewellers of Chester",
+					"location": {
+						"latitude": 53.19021679999999,
+						"longitude": -2.8915046
+					},
+					"address": "2-4 Eastgate St, Chester CH1 1LF",
+					"phone": "01244 255087",
+					"openingHours": [
+						{ "weekday": "Monday", "open": "10:00 am", "close": "5:00 pm" },
+						{ "weekday": "Tuesday", "open": "10:00 am", "close": "5:00 pm" },
+						{ "weekday": "Wednesday", "open": "10:00 am", "close": "5:00 pm" },
+						{ "weekday": "Thursday", "open": "10:00 am", "close": "5:00 pm" },
+						{ "weekday": "Friday", "open": "10:00 am", "close": "5:00 pm" },
+						{ "weekday": "Saturday", "open": "10:00 am", "close": "5:00 pm" },
+						{ "weekday": "Sunday", "open": "11:00 am", "close": "4:00 pm" }
+					],
+					"retailerId": 75
+				}
+			]
+		},
+		{
+			"name": "Easy Bathrooms",
+			"url": "https://www.easybathrooms.com/",
+			"category": "Home Improvements",
+			"image": "https://apptopay.com/img/clients/easy-bathrooms.jpg",
+			"id": 74,
+			"stores": [
+				{
+					"id": 109,
+					"name": "Easy Bathrooms & Tiles",
+					"location": { "latitude": 50.8385505, "longitude": -0.1905056 },
+					"address": "Unit 1, Delphi Close, English Cl, Hove, Brighton and Hove, Hove BN3 7EE",
+					"phone": "01273 326740",
+					"openingHours": [
+						{ "weekday": "Monday", "open": "8:00 am", "close": "5:30 pm" },
+						{ "weekday": "Tuesday", "open": "8:00 am", "close": "5:30 pm" },
+						{ "weekday": "Wednesday", "open": "8:00 am", "close": "5:30 pm" },
+						{ "weekday": "Thursday", "open": "8:00 am", "close": "5:30 pm" },
+						{ "weekday": "Friday", "open": "8:00 am", "close": "5:30 pm" },
+						{ "weekday": "Saturday", "open": "9:00 am", "close": "5:00 pm" },
+						{ "weekday": "Sunday", "open": "10:00 am", "close": "4:00 pm" }
+					],
+					"retailerId": 74
+				},
+				{
+					"id": 118,
+					"name": "Easy Bathrooms & Tiles",
+					"location": { "latitude": 50.9687023, "longitude": 0.0923373 },
+					"address": "Unit 5, Bellbrook Industrial Estate, Uckfield TN22 1QL",
+					"phone": "01825 764951",
+					"openingHours": [
+						{ "weekday": "Monday", "open": "8:00 am", "close": "5:30 pm" },
+						{ "weekday": "Tuesday", "open": "8:00 am", "close": "5:30 pm" },
+						{ "weekday": "Wednesday", "open": "8:00 am", "close": "5:30 pm" },
+						{ "weekday": "Thursday", "open": "8:00 am", "close": "5:30 pm" },
+						{ "weekday": "Friday", "open": "8:00 am", "close": "5:30 pm" },
+						{ "weekday": "Saturday", "open": "9:00 am", "close": "5:00 pm" },
+						{ "weekday": "Sunday", "open": "10:00 am", "close": "4:00 pm" }
+					],
+					"retailerId": 74
+				},
+				{
+					"id": 112,
+					"name": "Easy Bathrooms & Tiles",
+					"location": { "latitude": 51.11392, "longitude": -0.1807456 },
+					"address": "Unit 1A, Denvale Trade Park, Denvale Retail Park, Haslett Ave E, Crawley RH10 1SS",
+					"phone": "01293 536432",
+					"openingHours": [
+						{ "weekday": "Monday", "open": "8:00 am", "close": "5:30 pm" },
+						{ "weekday": "Tuesday", "open": "8:00 am", "close": "5:30 pm" },
+						{ "weekday": "Wednesday", "open": "8:00 am", "close": "5:30 pm" },
+						{ "weekday": "Thursday", "open": "8:00 am", "close": "5:30 pm" },
+						{ "weekday": "Friday", "open": "8:00 am", "close": "5:30 pm" },
+						{ "weekday": "Saturday", "open": "9:00 am", "close": "5:00 pm" },
+						{ "weekday": "Sunday", "open": "10:00 am", "close": "4:00 pm" }
+					],
+					"retailerId": 74
+				},
+				{
+					"id": 104,
+					"name": "Easy Bathrooms & Tiles",
+					"location": { "latitude": 51.15424429999999, "longitude": 0.2860177 },
+					"address": "Unit 2, Stag Park, Longfield Rd, Tunbridge Wells TN2 3BF",
+					"phone": "01892 525623",
+					"openingHours": [
+						{ "weekday": "Monday", "open": "8:00 am", "close": "5:30 pm" },
+						{ "weekday": "Tuesday", "open": "8:00 am", "close": "5:30 pm" },
+						{ "weekday": "Wednesday", "open": "8:00 am", "close": "5:30 pm" },
+						{ "weekday": "Thursday", "open": "8:00 am", "close": "5:30 pm" },
+						{ "weekday": "Friday", "open": "8:00 am", "close": "5:30 pm" },
+						{ "weekday": "Saturday", "open": "9:00 am", "close": "5:00 pm" },
+						{ "weekday": "Sunday", "open": "10:00 am", "close": "4:00 pm" }
+					],
+					"retailerId": 74
+				},
+				{
+					"id": 117,
+					"name": "Easy Bathrooms & Tiles",
+					"location": { "latitude": 51.0289473, "longitude": -0.4451877 },
+					"address": "Unit 1, Trade Park, Stane St, Billingshurst RH14 9HN",
+					"phone": "01403 914017",
+					"openingHours": [
+						{ "weekday": "Monday", "open": "8:00 am", "close": "5:30 pm" },
+						{ "weekday": "Tuesday", "open": "8:00 am", "close": "5:30 pm" },
+						{ "weekday": "Wednesday", "open": "8:00 am", "close": "5:30 pm" },
+						{ "weekday": "Thursday", "open": "8:00 am", "close": "5:30 pm" },
+						{ "weekday": "Friday", "open": "8:00 am", "close": "5:30 pm" },
+						{ "weekday": "Saturday", "open": "9:00 am", "close": "5:00 pm" },
+						{ "weekday": "Sunday", "open": "10:00 am", "close": "4:00 pm" }
+					],
+					"retailerId": 74
+				},
+				{
+					"id": 111,
+					"name": "Easy Bathrooms & Tiles",
+					"location": { "latitude": 51.3916579, "longitude": 0.1102671 },
+					"address": "Unit 3, Sun Business Park, Cray Ave., Orpington BR5 3FQ",
+					"phone": "01689 666119",
+					"openingHours": [
+						{ "weekday": "Monday", "open": "8:00 am", "close": "5:30 pm" },
+						{ "weekday": "Tuesday", "open": "8:00 am", "close": "5:30 pm" },
+						{ "weekday": "Wednesday", "open": "8:00 am", "close": "5:30 pm" },
+						{ "weekday": "Thursday", "open": "8:00 am", "close": "5:30 pm" },
+						{ "weekday": "Friday", "open": "8:00 am", "close": "5:30 pm" },
+						{ "weekday": "Saturday", "open": "9:00 am", "close": "5:00 pm" },
+						{ "weekday": "Sunday", "open": "10:00 am", "close": "4:00 pm" }
+					],
+					"retailerId": 74
+				},
+				{
+					"id": 115,
+					"name": "Easy Bathrooms and Tiles",
+					"location": { "latitude": 50.8311916, "longitude": -0.755973 },
+					"address": "Unit 1A, Portfield Trade Park, Chichester PO19 8NS",
+					"phone": "01243 538092",
+					"openingHours": [
+						{ "weekday": "Monday", "open": "8:00 am", "close": "5:30 pm" },
+						{ "weekday": "Tuesday", "open": "8:00 am", "close": "5:30 pm" },
+						{ "weekday": "Wednesday", "open": "8:00 am", "close": "5:30 pm" },
+						{ "weekday": "Thursday", "open": "8:00 am", "close": "5:30 pm" },
+						{ "weekday": "Friday", "open": "8:00 am", "close": "5:30 pm" },
+						{ "weekday": "Saturday", "open": "9:00 am", "close": "5:00 pm" },
+						{ "weekday": "Sunday", "open": "10:00 am", "close": "4:00 pm" }
+					],
+					"retailerId": 74
+				},
+				{
+					"id": 114,
+					"name": "Easy Bathrooms & Tiles",
+					"location": { "latitude": 51.4193803, "longitude": 0.3574488 },
+					"address": "Unit 6, Trade City, Coldharbour Rd, Northfleet, Gravesend DA11 8AB",
+					"phone": "01474 356179",
+					"openingHours": [
+						{ "weekday": "Monday", "open": "8:00 am", "close": "5:30 pm" },
+						{ "weekday": "Tuesday", "open": "8:00 am", "close": "5:30 pm" },
+						{ "weekday": "Wednesday", "open": "8:00 am", "close": "5:30 pm" },
+						{ "weekday": "Thursday", "open": "8:00 am", "close": "5:30 pm" },
+						{ "weekday": "Friday", "open": "8:00 am", "close": "5:30 pm" },
+						{ "weekday": "Saturday", "open": "9:00 am", "close": "5:00 pm" },
+						{ "weekday": "Sunday", "open": "10:00 am", "close": "4:00 pm" }
+					],
+					"retailerId": 74
+				},
+				{
+					"id": 122,
+					"name": "Easy Bathrooms & Tiles",
+					"location": { "latitude": 51.289669, "longitude": -0.7637681 },
+					"address": "Unit 4 & 5, Kingsgrove Trade Park, Invincible Rd, Farnborough GU14 7SS",
+					"phone": "01252 377352",
+					"openingHours": [
+						{ "weekday": "Monday", "open": "8:00 am", "close": "5:30 pm" },
+						{ "weekday": "Tuesday", "open": "8:00 am", "close": "5:30 pm" },
+						{ "weekday": "Wednesday", "open": "8:00 am", "close": "5:30 pm" },
+						{ "weekday": "Thursday", "open": "8:00 am", "close": "5:30 pm" },
+						{ "weekday": "Friday", "open": "8:00 am", "close": "5:30 pm" },
+						{ "weekday": "Saturday", "open": "9:00 am", "close": "5:00 pm" },
+						{ "weekday": "Sunday", "open": "10:00 am", "close": "4:00 pm" }
+					],
+					"retailerId": 74
+				},
+				{
+					"id": 116,
+					"name": "Easy Bathrooms & Tiles",
+					"location": { "latitude": 51.5689903, "longitude": -0.2290778 },
+					"address": "Unit C, Staples Corner Retail Park, Brent Cross, London NW2 6LW",
+					"phone": "020 8208 0224",
+					"openingHours": [
+						{ "weekday": "Monday", "open": "8:00 am", "close": "5:30 pm" },
+						{ "weekday": "Tuesday", "open": "8:00 am", "close": "5:30 pm" },
+						{ "weekday": "Wednesday", "open": "8:00 am", "close": "5:30 pm" },
+						{ "weekday": "Thursday", "open": "8:00 am", "close": "5:30 pm" },
+						{ "weekday": "Friday", "open": "8:00 am", "close": "5:30 pm" },
+						{ "weekday": "Saturday", "open": "9:00 am", "close": "5:00 pm" },
+						{ "weekday": "Sunday", "open": "10:00 am", "close": "4:00 pm" }
+					],
+					"retailerId": 74
+				},
+				{
+					"id": 123,
+					"name": "Easy Bathrooms & Tiles",
+					"location": { "latitude": 51.15143579999999, "longitude": 0.8548535 },
+					"address": "Unit D, 3-4 Hilton Rd, Ashford TN23 1EW",
+					"phone": "01233 224918",
+					"openingHours": [
+						{ "weekday": "Monday", "open": "8:00 am", "close": "5:30 pm" },
+						{ "weekday": "Tuesday", "open": "8:00 am", "close": "5:30 pm" },
+						{ "weekday": "Wednesday", "open": "8:00 am", "close": "5:30 pm" },
+						{ "weekday": "Thursday", "open": "8:00 am", "close": "5:30 pm" },
+						{ "weekday": "Friday", "open": "8:00 am", "close": "5:30 pm" },
+						{ "weekday": "Saturday", "open": "9:00 am", "close": "5:00 pm" },
+						{ "weekday": "Sunday", "open": "10:00 am", "close": "4:00 pm" }
+					],
+					"retailerId": 74
+				},
+				{
+					"id": 121,
+					"name": "Easy Bathrooms & Tiles",
+					"location": {
+						"latitude": 50.8496129,
+						"longitude": -0.9913571000000001
+					},
+					"address": "Solent Trade Park, Unit 8C, (Unit 3D, Havant PO9 1JH",
+					"phone": "023 9247 8204",
+					"openingHours": [
+						{ "weekday": "Monday", "open": "8:00 am", "close": "5:30 pm" },
+						{ "weekday": "Tuesday", "open": "8:00 am", "close": "5:30 pm" },
+						{ "weekday": "Wednesday", "open": "8:00 am", "close": "5:30 pm" },
+						{ "weekday": "Thursday", "open": "8:00 am", "close": "5:30 pm" },
+						{ "weekday": "Friday", "open": "8:00 am", "close": "5:30 pm" },
+						{ "weekday": "Saturday", "open": "9:00 am", "close": "5:00 pm" },
+						{ "weekday": "Sunday", "open": "10:00 am", "close": "4:00 pm" }
+					],
+					"retailerId": 74
+				},
+				{
+					"id": 119,
+					"name": "Easy Bathrooms & Tiles",
+					"location": { "latitude": 51.4976421, "longitude": -0.4039596 },
+					"address": "Unit 2, Trade City, Hayes Rd, Hayes, Hounslow, Southall UB2 5BE",
+					"phone": "020 8756 1013",
+					"openingHours": [
+						{ "weekday": "Monday", "open": "8:00 am", "close": "5:30 pm" },
+						{ "weekday": "Tuesday", "open": "8:00 am", "close": "5:30 pm" },
+						{ "weekday": "Wednesday", "open": "8:00 am", "close": "5:30 pm" },
+						{ "weekday": "Thursday", "open": "8:00 am", "close": "5:30 pm" },
+						{ "weekday": "Friday", "open": "8:00 am", "close": "5:30 pm" },
+						{ "weekday": "Saturday", "open": "9:00 am", "close": "5:00 pm" },
+						{ "weekday": "Sunday", "open": "10:00 am", "close": "4:00 pm" }
+					],
+					"retailerId": 74
+				},
+				{
+					"id": 120,
+					"name": "Easy Bathrooms & Tiles",
+					"location": { "latitude": 51.3703096, "longitude": -0.4750711 },
+					"address": "Waterside Trading Estate, Hamm Moor Ln, Weybridge, Addlestone, 10A KT15 2SD",
+					"phone": "01932 840601",
+					"openingHours": [
+						{ "weekday": "Monday", "open": "8:00 am", "close": "5:30 pm" },
+						{ "weekday": "Tuesday", "open": "8:00 am", "close": "5:30 pm" },
+						{ "weekday": "Wednesday", "open": "8:00 am", "close": "5:30 pm" },
+						{ "weekday": "Thursday", "open": "8:00 am", "close": "5:30 pm" },
+						{ "weekday": "Friday", "open": "8:00 am", "close": "5:30 pm" },
+						{ "weekday": "Saturday", "open": "9:00 am", "close": "5:00 pm" },
+						{ "weekday": "Sunday", "open": "10:00 am", "close": "4:00 pm" }
+					],
+					"retailerId": 74
+				},
+				{
+					"id": 208,
+					"name": "Easy Bathrooms & Tiles",
+					"location": { "latitude": 51.6112505, "longitude": -0.041517 },
+					"address": "Unit 1E, ravenside retail park, Ravenside Cl, London N18 3HA",
+					"phone": "020 8807 0134",
+					"openingHours": [
+						{ "weekday": "Monday", "open": "8:00 am", "close": "5:30 pm" },
+						{ "weekday": "Tuesday", "open": "8:00 am", "close": "5:30 pm" },
+						{ "weekday": "Wednesday", "open": "8:00 am", "close": "5:30 pm" },
+						{ "weekday": "Thursday", "open": "8:00 am", "close": "5:30 pm" },
+						{ "weekday": "Friday", "open": "8:00 am", "close": "5:30 pm" },
+						{ "weekday": "Saturday", "open": "9:00 am", "close": "5:00 pm" },
+						{ "weekday": "Sunday", "open": "10:00 am", "close": "4:00 pm" }
+					],
+					"retailerId": 74
+				},
+				{
+					"id": 213,
+					"name": "Easy Bathrooms & Tiles",
+					"location": { "latitude": 51.59157769999999, "longitude": 0.2156181 },
+					"address": "Gallows Corner, Unit 3, Burney Trade Park, Southend Arterial Rd, Romford RM3 0EZ",
+					"phone": "01708 379890",
+					"openingHours": [
+						{ "weekday": "Monday", "open": "8:00 am", "close": "5:30 pm" },
+						{ "weekday": "Tuesday", "open": "8:00 am", "close": "5:30 pm" },
+						{ "weekday": "Wednesday", "open": "8:00 am", "close": "5:30 pm" },
+						{ "weekday": "Thursday", "open": "8:00 am", "close": "5:30 pm" },
+						{ "weekday": "Friday", "open": "8:00 am", "close": "5:30 pm" },
+						{ "weekday": "Saturday", "open": "9:00 am", "close": "5:00 pm" },
+						{ "weekday": "Sunday", "open": "10:00 am", "close": "4:00 pm" }
+					],
+					"retailerId": 74
+				},
+				{
+					"id": 209,
+					"name": "Easy Bathrooms & Tiles",
+					"location": { "latitude": 51.4870672, "longitude": 0.2757927 },
+					"address": "Lakeside Retail Park, Unit D1B RM20 1WN",
+					"phone": "01708 200538",
+					"openingHours": [
+						{ "weekday": "Monday", "open": "8:00 am", "close": "5:30 pm" },
+						{ "weekday": "Tuesday", "open": "8:00 am", "close": "5:30 pm" },
+						{ "weekday": "Wednesday", "open": "8:00 am", "close": "5:30 pm" },
+						{ "weekday": "Thursday", "open": "8:00 am", "close": "5:30 pm" },
+						{ "weekday": "Friday", "open": "8:00 am", "close": "5:30 pm" },
+						{ "weekday": "Saturday", "open": "9:00 am", "close": "5:00 pm" },
+						{ "weekday": "Sunday", "open": "10:00 am", "close": "4:00 pm" }
+					],
+					"retailerId": 74
+				},
+				{
+					"id": 215,
+					"name": "Easy Bathrooms & Tiles",
+					"location": { "latitude": 51.4919739, "longitude": -0.3036186 },
+					"address": "Unit 3a, Phoenix Trade Park, Brentford TW8 9PL",
+					"phone": "020 8847 3364",
+					"openingHours": [
+						{ "weekday": "Monday", "open": "8:00 am", "close": "5:30 pm" },
+						{ "weekday": "Tuesday", "open": "8:00 am", "close": "5:30 pm" },
+						{ "weekday": "Wednesday", "open": "8:00 am", "close": "5:30 pm" },
+						{ "weekday": "Thursday", "open": "8:00 am", "close": "5:30 pm" },
+						{ "weekday": "Friday", "open": "8:00 am", "close": "5:30 pm" },
+						{ "weekday": "Saturday", "open": "9:00 am", "close": "5:00 pm" },
+						{ "weekday": "Sunday", "open": "10:00 am", "close": "4:00 pm" }
+					],
+					"retailerId": 74
+				},
+				{
+					"id": 210,
+					"name": "Easy Bathrooms & Tiles",
+					"location": { "latitude": 51.5231319, "longitude": 0.0707954 },
+					"address": "Beckton Triangle Retail Park, 1A, Claps Gate Ln E6 6LH",
+					"phone": "020 8507 2948",
+					"openingHours": [
+						{ "weekday": "Monday", "open": "8:00 am", "close": "5:30 pm" },
+						{ "weekday": "Tuesday", "open": "8:00 am", "close": "5:30 pm" },
+						{ "weekday": "Wednesday", "open": "8:00 am", "close": "5:30 pm" },
+						{ "weekday": "Thursday", "open": "8:00 am", "close": "5:30 pm" },
+						{ "weekday": "Friday", "open": "8:00 am", "close": "5:30 pm" },
+						{ "weekday": "Saturday", "open": "9:00 am", "close": "5:00 pm" },
+						{ "weekday": "Sunday", "open": "10:00 am", "close": "4:00 pm" }
+					],
+					"retailerId": 74
+				},
+				{
+					"id": 211,
+					"name": "Easy Bathrooms & Tiles",
+					"location": {
+						"latitude": 50.79782849999999,
+						"longitude": -1.0675498
+					},
+					"address": "Unit 10, The Pompey Centre, Dickinson Rd, Southsea, Portsmouth, Southsea PO4 8ER",
+					"phone": "023 9282 0535",
+					"openingHours": [
+						{ "weekday": "Monday", "open": "8:00 am", "close": "5:30 pm" },
+						{ "weekday": "Tuesday", "open": "8:00 am", "close": "5:30 pm" },
+						{ "weekday": "Wednesday", "open": "8:00 am", "close": "5:30 pm" },
+						{ "weekday": "Thursday", "open": "8:00 am", "close": "5:30 pm" },
+						{ "weekday": "Friday", "open": "8:00 am", "close": "5:30 pm" },
+						{ "weekday": "Saturday", "open": "9:00 am", "close": "5:00 pm" },
+						{ "weekday": "Sunday", "open": "10:00 am", "close": "4:00 pm" }
+					],
+					"retailerId": 74
+				}
+			]
+		},
+		{
+			"name": "Bonners",
+			"url": "https://www.bonnersmusic.co.uk/",
+			"category": "Music",
+			"image": "https://apptopay.com/img/clients/bonners.jpg",
+			"id": 83,
+			"stores": [
+				{
+					"id": 212,
+					"name": "Bonners Music",
+					"location": { "latitude": 50.7964656, "longitude": 0.2827331 },
+					"address": "9 Faraday Cl, Eastbourne BN22 9BH",
+					"phone": "01323 639335",
+					"openingHours": [
+						{ "weekday": "Monday", "open": "10:00 am", "close": "5:00 pm" },
+						{ "weekday": "Tuesday", "open": "10:00 am", "close": "5:00 pm" },
+						{ "weekday": "Wednesday", "open": "10:00 am", "close": "5:00 pm" },
+						{ "weekday": "Thursday", "open": "10:00 am", "close": "5:00 pm" },
+						{ "weekday": "Friday", "open": "10:00 am", "close": "5:00 pm" },
+						{ "weekday": "Saturday", "open": "10:00 am", "close": "5:00 pm" },
+						{ "weekday": "Sunday", "open": "Closed" }
+					],
+					"retailerId": 83
+				},
+				{
+					"id": 214,
+					"name": "Bonners Piano Centre - Reigate",
+					"location": { "latitude": 51.2435925, "longitude": -0.2146433 },
+					"address": "46B Albert Rd N, Reigate RH2 9EL",
+					"phone": "01737 242174",
+					"openingHours": [
+						{ "weekday": "Monday", "open": "10:00 am", "close": "4:00 pm" },
+						{ "weekday": "Tuesday", "open": "10:00 am", "close": "4:00 pm" },
+						{ "weekday": "Wednesday", "open": "Closed" },
+						{ "weekday": "Thursday", "open": "10:00 am", "close": "4:00 pm" },
+						{ "weekday": "Friday", "open": "10:00 am", "close": "4:00 pm" },
+						{ "weekday": "Saturday", "open": "10:00 am", "close": "4:00 pm" },
+						{ "weekday": "Sunday", "open": "Closed" }
+					],
+					"retailerId": 83
+				},
+				{
+					"id": 216,
+					"name": "Bonners Piano Centre - Milton Keynes",
+					"location": { "latitude": 52.0067818, "longitude": -0.719633 },
+					"address": "1 Ward Rd, Bletchley, Milton Keynes MK1 1JA",
+					"phone": "01908 274957",
+					"openingHours": [
+						{ "weekday": "Monday", "open": "10:00 am", "close": "5:00 pm" },
+						{ "weekday": "Tuesday", "open": "10:00 am", "close": "5:00 pm" },
+						{ "weekday": "Wednesday", "open": "Closed" },
+						{ "weekday": "Thursday", "open": "10:00 am", "close": "5:00 pm" },
+						{ "weekday": "Friday", "open": "10:00 am", "close": "5:00 pm" },
+						{ "weekday": "Saturday", "open": "10:00 am", "close": "4:00 pm" },
+						{ "weekday": "Sunday", "open": "Closed" }
+					],
+					"retailerId": 83
+				},
+				{
+					"id": 217,
+					"name": "Bonners Fruit & Vegetables",
+					"location": { "latitude": 51.7529921, "longitude": -1.2570632 },
+					"address": "20 Market St, Oxford OX1 3DU",
+					"phone": "01865 242183",
+					"openingHours": [
+						{ "weekday": "Monday", "open": "8:00 am", "close": "3:00 pm" },
+						{ "weekday": "Tuesday", "open": "8:00 am", "close": "3:00 pm" },
+						{ "weekday": "Wednesday", "open": "8:00 am", "close": "3:00 pm" },
+						{ "weekday": "Thursday", "open": "8:00 am", "close": "3:00 pm" },
+						{ "weekday": "Friday", "open": "8:00 am", "close": "4:00 pm" },
+						{ "weekday": "Saturday", "open": "8:00 am", "close": "4:00 pm" },
+						{ "weekday": "Sunday", "open": "Closed" }
+					],
+					"retailerId": 83
+				}
+			]
+		},
+		{
+			"name": "Sarah Layton Fine Jewellery",
+			"url": "https://sarahlayton.co.uk/",
+			"category": "Jewellery",
+			"image": "https://apptopay.com/img/clients/sarah-layton.jpg",
+			"id": 76,
+			"stores": [
+				{
+					"id": 224,
+					"name": "Sarah Layton Jewellers",
+					"location": {
+						"latitude": 53.82194939999999,
+						"longitude": -2.4069317
+					},
+					"address": "71 King St, Whalley, Clitheroe BB7 9SW",
+					"phone": "01254 822062",
+					"openingHours": [
+						{ "weekday": "Monday", "open": "9:30 am", "close": "5:30 pm" },
+						{ "weekday": "Tuesday", "open": "9:30 am", "close": "5:30 pm" },
+						{ "weekday": "Wednesday", "open": "9:30 am", "close": "5:30 pm" },
+						{ "weekday": "Thursday", "open": "9:30 am", "close": "5:30 pm" },
+						{ "weekday": "Friday", "open": "9:30 am", "close": "5:30 pm" },
+						{ "weekday": "Saturday", "open": "9:30 am", "close": "5:00 pm" },
+						{ "weekday": "Sunday", "open": "Closed" }
+					],
+					"retailerId": 76
+				}
+			]
+		},
+		{
+			"name": "Hargroves Cycles",
+			"url": "https://www.hargrovescycles.co.uk/",
+			"category": "Leisure and Lifestyle",
+			"image": null,
+			"id": 80,
+			"stores": [
+				{
+					"id": 223,
+					"name": "99 Bikes",
+					"location": {
+						"latitude": 50.8361187,
+						"longitude": -0.7680710000000001
+					},
+					"address": "106-108 The Hornet, Chichester PO19 7JR",
+					"phone": "01243 537337",
+					"openingHours": [
+						{ "weekday": "Monday", "open": "9:00 am", "close": "5:30 pm" },
+						{ "weekday": "Tuesday", "open": "9:00 am", "close": "5:30 pm" },
+						{ "weekday": "Wednesday", "open": "9:00 am", "close": "5:30 pm" },
+						{ "weekday": "Thursday", "open": "9:00 am", "close": "5:30 pm" },
+						{ "weekday": "Friday", "open": "9:00 am", "close": "5:30 pm" },
+						{ "weekday": "Saturday", "open": "9:00 am", "close": "5:30 pm" },
+						{ "weekday": "Sunday", "open": "10:00 am", "close": "4:00 pm" }
+					],
+					"retailerId": 80
+				},
+				{
+					"id": 220,
+					"name": "99 Bikes",
+					"location": { "latitude": 50.91886299999999, "longitude": -1.481172 },
+					"address": "150 Commercial Rd, Totton, Southampton SO40 3AA",
+					"phone": "023 8086 2011",
+					"openingHours": [
+						{ "weekday": "Monday", "open": "9:00 am", "close": "5:30 pm" },
+						{ "weekday": "Tuesday", "open": "9:00 am", "close": "5:30 pm" },
+						{ "weekday": "Wednesday", "open": "9:00 am", "close": "5:30 pm" },
+						{ "weekday": "Thursday", "open": "9:00 am", "close": "5:30 pm" },
+						{ "weekday": "Friday", "open": "9:00 am", "close": "5:30 pm" },
+						{ "weekday": "Saturday", "open": "9:00 am", "close": "5:30 pm" },
+						{ "weekday": "Sunday", "open": "10:00 am", "close": "4:00 pm" }
+					],
+					"retailerId": 80
+				},
+				{
+					"id": 222,
+					"name": "99 Bikes",
+					"location": { "latitude": 51.5594186, "longitude": -1.8065052 },
+					"address": "Paddington Dr, Swindon SN5 7SB",
+					"phone": "01793 528208",
+					"openingHours": [
+						{ "weekday": "Monday", "open": "9:00 am", "close": "5:30 pm" },
+						{ "weekday": "Tuesday", "open": "9:00 am", "close": "5:30 pm" },
+						{ "weekday": "Wednesday", "open": "9:00 am", "close": "5:30 pm" },
+						{ "weekday": "Thursday", "open": "9:00 am", "close": "5:30 pm" },
+						{ "weekday": "Friday", "open": "9:00 am", "close": "5:30 pm" },
+						{ "weekday": "Saturday", "open": "9:00 am", "close": "5:30 pm" },
+						{ "weekday": "Sunday", "open": "10:00 am", "close": "4:00 pm" }
+					],
+					"retailerId": 80
+				},
+				{
+					"id": 225,
+					"name": "99 Bikes",
+					"location": { "latitude": 51.0696581, "longitude": -1.295726 },
+					"address": "1, Winchester Trade Park, Easton Ln, Winchester SO23 7FA",
+					"phone": "01962 840707",
+					"openingHours": [
+						{ "weekday": "Monday", "open": "9:00 am", "close": "5:30 pm" },
+						{ "weekday": "Tuesday", "open": "9:00 am", "close": "5:30 pm" },
+						{ "weekday": "Wednesday", "open": "9:00 am", "close": "5:30 pm" },
+						{ "weekday": "Thursday", "open": "9:00 am", "close": "5:30 pm" },
+						{ "weekday": "Friday", "open": "9:00 am", "close": "5:30 pm" },
+						{ "weekday": "Saturday", "open": "9:00 am", "close": "5:30 pm" },
+						{ "weekday": "Sunday", "open": "10:00 am", "close": "4:00 pm" }
+					],
+					"retailerId": 80
+				},
+				{
+					"id": 218,
+					"name": "Hargroves Cycles",
+					"location": { "latitude": 50.9139945, "longitude": -1.4477304 },
+					"address": "453 Millbrook Rd W, Southampton SO15 0HX",
+					"phone": "023 8086 2011",
+					"openingHours": [
+						{ "weekday": "Monday", "open": "9:00 am", "close": "5:30 pm" },
+						{ "weekday": "Tuesday", "open": "9:00 am", "close": "5:30 pm" },
+						{ "weekday": "Wednesday", "open": "9:00 am", "close": "5:30 pm" },
+						{ "weekday": "Thursday", "open": "9:00 am", "close": "5:30 pm" },
+						{ "weekday": "Friday", "open": "9:00 am", "close": "5:30 pm" },
+						{ "weekday": "Saturday", "open": "9:00 am", "close": "5:30 pm" },
+						{ "weekday": "Sunday", "open": "10:00 am", "close": "4:00 pm" }
+					],
+					"retailerId": 80
+				}
+			]
+		},
+		{
+			"name": "Boutique Camping",
+			"url": "https://boutiquecamping.com/",
+			"category": "Leisure and Lifestyle",
+			"image": "https://www.apptopay.com/img/clients/boutique-camping.jpg",
+			"id": 78,
+			"stores": [
+				{
+					"id": 226,
+					"name": "Boutique Camping",
+					"location": { "latitude": 51.469565, "longitude": -0.128225 },
+					"address": "2G Union Court 20-22 Union Road, Union Ct, London SW4 6JP",
+					"phone": "020 3319 1315",
+					"openingHours": [
+						{ "weekday": "Monday", "open": "9:00 am", "close": "5:30 pm" },
+						{ "weekday": "Tuesday", "open": "9:00 am", "close": "5:30 pm" },
+						{ "weekday": "Wednesday", "open": "9:00 am", "close": "5:30 pm" },
+						{ "weekday": "Thursday", "open": "9:00 am", "close": "5:30 pm" },
+						{ "weekday": "Friday", "open": "9:00 am", "close": "5:30 pm" },
+						{ "weekday": "Saturday", "open": "10:00 am", "close": "2:00 pm" },
+						{ "weekday": "Sunday", "open": "Closed" }
+					],
+					"retailerId": 78
 				}
 			]
 		},
@@ -502,177 +866,349 @@
 			"url": "https://www.americangolf.co.uk/",
 			"category": "Leisure and Lifestyle",
 			"image": "https://atp-directory.s3.eu-west-2.amazonaws.com/american-golf-red.jpg",
-			"id": 473,
+			"id": 77,
 			"stores": [
 				{
-					"id": 672,
+					"id": 232,
 					"name": "American Golf - Brighton",
 					"location": { "latitude": 50.8412334, "longitude": -0.2502271 },
 					"address": "2-3 Royal George Parade, Shoreham-by-Sea BN43 6TB",
-					"phone": "",
-					"retailerId": 473
+					"phone": "01273 900640",
+					"openingHours": [
+						{ "weekday": "Monday", "open": "9:00 am", "close": "6:00 pm" },
+						{ "weekday": "Tuesday", "open": "9:00 am", "close": "6:00 pm" },
+						{ "weekday": "Wednesday", "open": "9:00 am", "close": "6:00 pm" },
+						{ "weekday": "Thursday", "open": "9:00 am", "close": "6:00 pm" },
+						{ "weekday": "Friday", "open": "9:00 am", "close": "6:00 pm" },
+						{ "weekday": "Saturday", "open": "9:00 am", "close": "6:00 pm" },
+						{ "weekday": "Sunday", "open": "10:00 am", "close": "4:00 pm" }
+					],
+					"retailerId": 77
 				},
 				{
-					"id": 673,
+					"id": 229,
 					"name": "American Golf - Rustington",
 					"location": { "latitude": 50.8221702, "longitude": -0.5026256 },
 					"address": "Golfers Ln, Angmering, Littlehampton BN16 4NB",
-					"phone": "",
-					"retailerId": 473
+					"phone": "01903 850790",
+					"openingHours": [
+						{ "weekday": "Monday", "open": "9:00 am", "close": "9:00 pm" },
+						{ "weekday": "Tuesday", "open": "9:00 am", "close": "9:00 pm" },
+						{ "weekday": "Wednesday", "open": "9:00 am", "close": "9:00 pm" },
+						{ "weekday": "Thursday", "open": "9:00 am", "close": "9:00 pm" },
+						{ "weekday": "Friday", "open": "9:00 am", "close": "9:00 pm" },
+						{ "weekday": "Saturday", "open": "9:00 am", "close": "6:00 pm" },
+						{ "weekday": "Sunday", "open": "9:00 am", "close": "6:00 pm" }
+					],
+					"retailerId": 77
 				},
 				{
-					"id": 674,
+					"id": 240,
 					"name": "American Golf - Tonbridge",
 					"location": { "latitude": 51.198269, "longitude": 0.284794 },
 					"address": "Golf Centre, Cannon Ln, Tonbridge TN9 1PP",
-					"phone": "",
-					"retailerId": 473
+					"phone": "01732 443798",
+					"openingHours": [
+						{ "weekday": "Monday", "open": "8:00 am", "close": "10:00 pm" },
+						{ "weekday": "Tuesday", "open": "8:00 am", "close": "10:00 pm" },
+						{ "weekday": "Wednesday", "open": "8:00 am", "close": "10:00 pm" },
+						{ "weekday": "Thursday", "open": "8:00 am", "close": "10:00 pm" },
+						{ "weekday": "Friday", "open": "8:00 am", "close": "10:00 pm" },
+						{ "weekday": "Saturday", "open": "8:00 am", "close": "8:00 pm" },
+						{ "weekday": "Sunday", "open": "8:00 am", "close": "7:00 pm" }
+					],
+					"retailerId": 77
 				},
 				{
-					"id": 675,
+					"id": 233,
 					"name": "American Golf - Sidcup",
 					"location": { "latitude": 51.4314598, "longitude": 0.0768623 },
 					"address": "A20 Sidcup By-Pass, London BR7 6RP",
-					"phone": "",
-					"retailerId": 473
+					"phone": "020 8309 6544",
+					"openingHours": [
+						{ "weekday": "Monday", "open": "10:00 am", "close": "7:00 pm" },
+						{ "weekday": "Tuesday", "open": "10:00 am", "close": "7:00 pm" },
+						{ "weekday": "Wednesday", "open": "10:00 am", "close": "7:00 pm" },
+						{ "weekday": "Thursday", "open": "10:00 am", "close": "8:00 pm" },
+						{ "weekday": "Friday", "open": "10:00 am", "close": "7:00 pm" },
+						{ "weekday": "Saturday", "open": "9:00 am", "close": "6:00 pm" },
+						{ "weekday": "Sunday", "open": "10:00 am", "close": "5:00 pm" }
+					],
+					"retailerId": 77
 				},
 				{
-					"id": 676,
+					"id": 231,
 					"name": "American Golf - London - Greenwich",
 					"location": { "latitude": 51.4980801, "longitude": 0.0009369 },
 					"address": "Peninsula Golf Range, Greenwich, 265, Tunnel Ave, London SE10 0QE",
-					"phone": "",
-					"retailerId": 473
+					"phone": "020 3757 5943",
+					"openingHours": [
+						{ "weekday": "Monday", "open": "10:00 am", "close": "8:00 pm" },
+						{ "weekday": "Tuesday", "open": "10:00 am", "close": "8:00 pm" },
+						{ "weekday": "Wednesday", "open": "10:00 am", "close": "8:00 pm" },
+						{ "weekday": "Thursday", "open": "10:00 am", "close": "8:00 pm" },
+						{ "weekday": "Friday", "open": "10:00 am", "close": "8:00 pm" },
+						{ "weekday": "Saturday", "open": "9:00 am", "close": "6:00 pm" },
+						{ "weekday": "Sunday", "open": "10:00 am", "close": "5:00 pm" }
+					],
+					"retailerId": 77
 				},
 				{
-					"id": 677,
+					"id": 234,
 					"name": "American Golf",
 					"location": { "latitude": 51.50968, "longitude": -0.086182 },
 					"address": "30 Fish St Hill, Monument St, London EC3R 6DN",
-					"phone": "",
-					"retailerId": 473
+					"phone": "020 3371 3349",
+					"openingHours": [
+						{ "weekday": "Monday", "open": "10:00 am", "close": "7:00 pm" },
+						{ "weekday": "Tuesday", "open": "10:00 am", "close": "7:00 pm" },
+						{ "weekday": "Wednesday", "open": "10:00 am", "close": "7:00 pm" },
+						{ "weekday": "Thursday", "open": "10:00 am", "close": "7:00 pm" },
+						{ "weekday": "Friday", "open": "10:00 am", "close": "7:00 pm" },
+						{ "weekday": "Saturday", "open": "9:00 am", "close": "5:00 pm" },
+						{ "weekday": "Sunday", "open": "10:00 am", "close": "4:00 pm" }
+					],
+					"retailerId": 77
 				},
 				{
-					"id": 678,
+					"id": 243,
 					"name": "American Golf - New Malden",
 					"location": { "latitude": 51.4040487, "longitude": -0.2431344 },
 					"address": "Beverly Park, Beverley Way, New Malden KT3 4PH",
-					"phone": "",
-					"retailerId": 473
+					"phone": "020 3819 6013",
+					"openingHours": [
+						{ "weekday": "Monday", "open": "8:30 am", "close": "9:30 pm" },
+						{ "weekday": "Tuesday", "open": "8:30 am", "close": "9:30 pm" },
+						{ "weekday": "Wednesday", "open": "8:30 am", "close": "9:30 pm" },
+						{ "weekday": "Thursday", "open": "8:30 am", "close": "9:30 pm" },
+						{ "weekday": "Friday", "open": "8:30 am", "close": "9:30 pm" },
+						{ "weekday": "Saturday", "open": "8:00 am", "close": "9:30 pm" },
+						{ "weekday": "Sunday", "open": "8:00 am", "close": "9:30 pm" }
+					],
+					"retailerId": 77
 				},
 				{
-					"id": 679,
+					"id": 236,
 					"name": "American Golf - Camberley",
 					"location": { "latitude": 51.3488841, "longitude": -0.7134419 },
 					"address": "1 London Rd, Camberley GU15 3UZ",
-					"phone": "",
-					"retailerId": 473
+					"phone": "01276 691444",
+					"openingHours": [
+						{ "weekday": "Monday", "open": "9:00 am", "close": "6:00 pm" },
+						{ "weekday": "Tuesday", "open": "9:00 am", "close": "6:00 pm" },
+						{ "weekday": "Wednesday", "open": "9:00 am", "close": "6:00 pm" },
+						{ "weekday": "Thursday", "open": "9:00 am", "close": "6:00 pm" },
+						{ "weekday": "Friday", "open": "9:00 am", "close": "6:00 pm" },
+						{ "weekday": "Saturday", "open": "9:00 am", "close": "6:00 pm" },
+						{ "weekday": "Sunday", "open": "10:00 am", "close": "4:00 pm" }
+					],
+					"retailerId": 77
 				},
 				{
-					"id": 680,
+					"id": 235,
 					"name": "American Golf - Guildford",
 					"location": { "latitude": 51.2312454, "longitude": -0.6102948 },
 					"address": "Road, A3 By-Pass Guildford and Godalming Bypass Portsmouth, Guildford GU2 7RZ",
-					"phone": "",
-					"retailerId": 473
+					"phone": "01483 339707",
+					"openingHours": [
+						{ "weekday": "Monday", "open": "9:00 am", "close": "6:00 pm" },
+						{ "weekday": "Tuesday", "open": "9:00 am", "close": "6:00 pm" },
+						{ "weekday": "Wednesday", "open": "9:00 am", "close": "6:00 pm" },
+						{ "weekday": "Thursday", "open": "9:00 am", "close": "6:00 pm" },
+						{ "weekday": "Friday", "open": "9:00 am", "close": "6:00 pm" },
+						{ "weekday": "Saturday", "open": "9:00 am", "close": "6:00 pm" },
+						{ "weekday": "Sunday", "open": "10:00 am", "close": "4:00 pm" }
+					],
+					"retailerId": 77
 				},
 				{
-					"id": 681,
+					"id": 237,
 					"name": "American Golf - Thurrock",
 					"location": { "latitude": 51.48494119999999, "longitude": 0.2729853 },
 					"address": "Tunnel Industrial Estate, 8 Weston Ave, West Thurrock, Grays RM20 3LR",
-					"phone": "",
-					"retailerId": 473
+					"phone": "01708 200031",
+					"openingHours": [
+						{ "weekday": "Monday", "open": "9:30 am", "close": "7:00 pm" },
+						{ "weekday": "Tuesday", "open": "9:30 am", "close": "7:00 pm" },
+						{ "weekday": "Wednesday", "open": "9:30 am", "close": "7:00 pm" },
+						{ "weekday": "Thursday", "open": "9:30 am", "close": "7:00 pm" },
+						{ "weekday": "Friday", "open": "9:30 am", "close": "7:00 pm" },
+						{ "weekday": "Saturday", "open": "9:00 am", "close": "6:00 pm" },
+						{ "weekday": "Sunday", "open": "10:00 am", "close": "4:00 pm" }
+					],
+					"retailerId": 77
 				},
 				{
-					"id": 682,
+					"id": 239,
 					"name": "American Golf - Sandown",
 					"location": { "latitude": 51.376231, "longitude": -0.364788 },
 					"address": "Sandown Park, More Ln, Esher KT10 8AN",
-					"phone": "",
-					"retailerId": 473
+					"phone": "01372 238280",
+					"openingHours": [
+						{ "weekday": "Monday", "open": "9:30 am", "close": "8:30 pm" },
+						{ "weekday": "Tuesday", "open": "9:30 am", "close": "8:30 pm" },
+						{ "weekday": "Wednesday", "open": "9:30 am", "close": "8:30 pm" },
+						{ "weekday": "Thursday", "open": "9:30 am", "close": "8:30 pm" },
+						{ "weekday": "Friday", "open": "9:30 am", "close": "8:30 pm" },
+						{ "weekday": "Saturday", "open": "9:00 am", "close": "6:00 pm" },
+						{ "weekday": "Sunday", "open": "9:00 am", "close": "6:00 pm" }
+					],
+					"retailerId": 77
 				},
 				{
-					"id": 683,
+					"id": 242,
 					"name": "American Golf - Southampton",
 					"location": { "latitude": 50.9241454, "longitude": -1.310523 },
 					"address": "Hedge End Trade Park, Tollbar Way, Southampton SO30 2JN",
-					"phone": "",
-					"retailerId": 473
+					"phone": "01489 664669",
+					"openingHours": [
+						{ "weekday": "Monday", "open": "9:00 am", "close": "6:00 pm" },
+						{ "weekday": "Tuesday", "open": "9:00 am", "close": "6:00 pm" },
+						{ "weekday": "Wednesday", "open": "9:00 am", "close": "6:00 pm" },
+						{ "weekday": "Thursday", "open": "9:00 am", "close": "6:00 pm" },
+						{ "weekday": "Friday", "open": "9:00 am", "close": "6:00 pm" },
+						{ "weekday": "Saturday", "open": "9:00 am", "close": "6:00 pm" },
+						{ "weekday": "Sunday", "open": "10:00 am", "close": "4:00 pm" }
+					],
+					"retailerId": 77
 				},
 				{
-					"id": 684,
+					"id": 245,
 					"name": "American Golf - Watford",
 					"location": { "latitude": 51.672208, "longitude": -0.379166 },
 					"address": "Clubhouse, American Golf Clubhouse, Bushey Mill Ln, Watford WD24 7AB",
-					"phone": "",
-					"retailerId": 473
+					"phone": "01923 608831",
+					"openingHours": [
+						{ "weekday": "Monday", "open": "10:00 am", "close": "8:00 pm" },
+						{ "weekday": "Tuesday", "open": "10:00 am", "close": "8:00 pm" },
+						{ "weekday": "Wednesday", "open": "10:00 am", "close": "6:00 pm" },
+						{ "weekday": "Thursday", "open": "10:00 am", "close": "6:00 pm" },
+						{ "weekday": "Friday", "open": "9:00 am", "close": "6:00 pm" },
+						{ "weekday": "Saturday", "open": "9:00 am", "close": "5:00 pm" },
+						{ "weekday": "Sunday", "open": "9:00 am", "close": "5:00 pm" }
+					],
+					"retailerId": 77
 				},
 				{
-					"id": 685,
+					"id": 241,
 					"name": "American Golf - London - Trent Park",
 					"location": { "latitude": 51.6492107, "longitude": -0.1311148 },
 					"address": "Trent Park Golf Club, Bramley Rd, London N14 4UW",
-					"phone": "",
-					"retailerId": 473
+					"phone": "020 8090 0090",
+					"openingHours": [
+						{ "weekday": "Monday", "open": "9:00 am", "close": "6:00 pm" },
+						{ "weekday": "Tuesday", "open": "9:00 am", "close": "6:00 pm" },
+						{ "weekday": "Wednesday", "open": "9:00 am", "close": "6:00 pm" },
+						{ "weekday": "Thursday", "open": "9:00 am", "close": "6:00 pm" },
+						{ "weekday": "Friday", "open": "9:00 am", "close": "6:00 pm" },
+						{ "weekday": "Saturday", "open": "9:00 am", "close": "6:00 pm" },
+						{ "weekday": "Sunday", "open": "9:00 am", "close": "6:00 pm" }
+					],
+					"retailerId": 77
 				},
 				{
-					"id": 686,
-					"name": "American Golf - Hendon",
-					"location": { "latitude": 51.604858, "longitude": -0.2244652 },
-					"address": "Barnet Copthall Champions Way, Hendon Metro Golf Centre, London NW4 1PX",
-					"phone": "",
-					"retailerId": 473
-				},
-				{
-					"id": 687,
-					"name": "American Golf - Canterbury",
-					"location": { "latitude": 51.2728292, "longitude": 1.0670065 },
-					"address": "26 Maynard Rd, Wincheap Industrial Estate, Canterbury CT1 3RH",
-					"phone": "",
-					"retailerId": 473
-				},
-				{
-					"id": 688,
+					"id": 238,
 					"name": "American Golf - Basingstoke",
 					"location": { "latitude": 51.2358276, "longitude": -1.1379753 },
 					"address": "American Golf, 5 Wallop Dr, Basingstoke RG22 4TW",
-					"phone": "",
-					"retailerId": 473
+					"phone": "01256 329285",
+					"openingHours": [
+						{ "weekday": "Monday", "open": "9:30 am", "close": "6:30 pm" },
+						{ "weekday": "Tuesday", "open": "9:30 am", "close": "6:30 pm" },
+						{ "weekday": "Wednesday", "open": "9:30 am", "close": "6:30 pm" },
+						{ "weekday": "Thursday", "open": "9:30 am", "close": "6:30 pm" },
+						{ "weekday": "Friday", "open": "9:30 am", "close": "6:30 pm" },
+						{ "weekday": "Saturday", "open": "9:00 am", "close": "6:00 pm" },
+						{ "weekday": "Sunday", "open": "10:00 am", "close": "4:00 pm" }
+					],
+					"retailerId": 77
 				},
 				{
-					"id": 689,
+					"id": 244,
+					"name": "American Golf - Hendon",
+					"location": { "latitude": 51.604858, "longitude": -0.2244652 },
+					"address": "Barnet Copthall Champions Way, Hendon Metro Golf Centre, London NW4 1PX",
+					"phone": "020 3819 6012",
+					"openingHours": [
+						{ "weekday": "Monday", "open": "9:00 am", "close": "10:00 pm" },
+						{ "weekday": "Tuesday", "open": "9:00 am", "close": "10:00 pm" },
+						{ "weekday": "Wednesday", "open": "9:00 am", "close": "10:00 pm" },
+						{ "weekday": "Thursday", "open": "9:00 am", "close": "10:00 pm" },
+						{ "weekday": "Friday", "open": "9:00 am", "close": "10:00 pm" },
+						{ "weekday": "Saturday", "open": "8:30 am", "close": "9:00 pm" },
+						{ "weekday": "Sunday", "open": "8:30 am", "close": "9:00 pm" }
+					],
+					"retailerId": 77
+				},
+				{
+					"id": 246,
+					"name": "American Golf - Canterbury",
+					"location": { "latitude": 51.2728292, "longitude": 1.0670065 },
+					"address": "26 Maynard Rd, Wincheap Industrial Estate, Canterbury CT1 3RH",
+					"phone": "01227 208499",
+					"openingHours": [
+						{ "weekday": "Monday", "open": "9:30 am", "close": "5:30 pm" },
+						{ "weekday": "Tuesday", "open": "9:30 am", "close": "5:30 pm" },
+						{ "weekday": "Wednesday", "open": "9:30 am", "close": "5:30 pm" },
+						{ "weekday": "Thursday", "open": "9:30 am", "close": "5:30 pm" },
+						{ "weekday": "Friday", "open": "9:30 am", "close": "5:30 pm" },
+						{ "weekday": "Saturday", "open": "9:00 am", "close": "6:00 pm" },
+						{ "weekday": "Sunday", "open": "10:00 am", "close": "4:00 pm" }
+					],
+					"retailerId": 77
+				},
+				{
+					"id": 249,
 					"name": "American Golf - Northolt",
 					"location": { "latitude": 51.5421318, "longitude": -0.3956989 },
 					"address": "W End Rd, Northolt UB5 6QZ",
-					"phone": "",
-					"retailerId": 473
+					"phone": "020 8150 1413",
+					"openingHours": [
+						{ "weekday": "Monday", "open": "9:00 am", "close": "6:00 pm" },
+						{ "weekday": "Tuesday", "open": "9:00 am", "close": "6:00 pm" },
+						{ "weekday": "Wednesday", "open": "9:00 am", "close": "6:00 pm" },
+						{ "weekday": "Thursday", "open": "9:00 am", "close": "6:00 pm" },
+						{ "weekday": "Friday", "open": "9:00 am", "close": "6:00 pm" },
+						{ "weekday": "Saturday", "open": "9:00 am", "close": "6:00 pm" },
+						{ "weekday": "Sunday", "open": "9:00 am", "close": "5:00 pm" }
+					],
+					"retailerId": 77
 				},
 				{
-					"id": 690,
-					"name": "American Golf - Eastleigh",
-					"location": { "latitude": 50.966707, "longitude": -1.3865011 },
-					"address": "Chestnut Retail Park, 3 Chestnut Ave, Chandler's Ford, Eastleigh SO53 3TF",
-					"phone": "",
-					"retailerId": 473
-				},
-				{
-					"id": 691,
+					"id": 247,
 					"name": "American Golf - Slough",
 					"location": { "latitude": 51.513427, "longitude": -0.618109 },
 					"address": "American Golf, 175 Bath Rd, Slough SL1 4AA",
-					"phone": "",
-					"retailerId": 473
+					"phone": "01753 578577",
+					"openingHours": [
+						{ "weekday": "Monday", "open": "9:00 am", "close": "6:00 pm" },
+						{ "weekday": "Tuesday", "open": "9:00 am", "close": "6:00 pm" },
+						{ "weekday": "Wednesday", "open": "9:00 am", "close": "6:00 pm" },
+						{ "weekday": "Thursday", "open": "9:00 am", "close": "6:00 pm" },
+						{ "weekday": "Friday", "open": "9:00 am", "close": "6:00 pm" },
+						{ "weekday": "Saturday", "open": "9:00 am", "close": "6:00 pm" },
+						{ "weekday": "Sunday", "open": "10:00 am", "close": "4:00 pm" }
+					],
+					"retailerId": 77
+				},
+				{
+					"id": 248,
+					"name": "American Golf - Eastleigh",
+					"location": { "latitude": 50.966707, "longitude": -1.3865011 },
+					"address": "Chestnut Retail Park, 3 Chestnut Ave, Chandler's Ford, Eastleigh SO53 3TF",
+					"phone": "023 8061 5130",
+					"openingHours": [
+						{ "weekday": "Monday", "open": "9:00 am", "close": "6:00 pm" },
+						{ "weekday": "Tuesday", "open": "9:00 am", "close": "6:00 pm" },
+						{ "weekday": "Wednesday", "open": "9:00 am", "close": "6:00 pm" },
+						{ "weekday": "Thursday", "open": "9:00 am", "close": "6:00 pm" },
+						{ "weekday": "Friday", "open": "9:00 am", "close": "6:00 pm" },
+						{ "weekday": "Saturday", "open": "9:00 am", "close": "6:00 pm" },
+						{ "weekday": "Sunday", "open": "10:00 am", "close": "4:00 pm" }
+					],
+					"retailerId": 77
 				}
 			]
-		},
-		{
-			"name": "MyDentist",
-			"url": "https://www.mydentist.co.uk/",
-			"category": "Healthcare",
-			"image": "https://apptopay.com/img/clients/mydentist.jpg",
-			"id": 469,
-			"stores": []
 		}
 	]
 }
