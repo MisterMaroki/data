@@ -2661,32 +2661,6 @@
 					"retailerId": 78
 				},
 				{
-					"id": 75,
-					"name": "Kymani Getaways",
-					"location": { "latitude": 51.1941657, "longitude": -0.068992 },
-					"address": "Byers Ln, Godstone RH9 8JH",
-					"addressComponents": [
-						{
-							"long_name": "Byers Lane",
-							"short_name": "Byers Ln",
-							"types": ["route"]
-						},
-						{
-							"long_name": "Godstone",
-							"short_name": "Godstone",
-							"types": ["postal_town"]
-						},
-						{
-							"long_name": "RH9 8JH",
-							"short_name": "RH9 8JH",
-							"types": ["postal_code"]
-						}
-					],
-					"phone": "020 3633 2316",
-					"openingHours": [],
-					"retailerId": 78
-				},
-				{
 					"id": 71,
 					"name": "Boutique Camps",
 					"location": { "latitude": 50.8802408, "longitude": -3.9165931 },
