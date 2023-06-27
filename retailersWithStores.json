@@ -10,7 +10,7 @@
 				{
 					"id": 7,
 					"name": "mydentist, Bristol Gardens, Brighton",
-					"location": { "latitude": 50.8181982, "longitude": -0.109677 },
+					"location": { "lat": 50.8181982, "lng": -0.109677 },
 					"address": "St Faith Clinic, 17 Bristol Gardens, Brighton, Brighton and Hove, Brighton BN2 5JR",
 					"addressComponents": [
 						{
@@ -54,7 +54,7 @@
 				{
 					"id": 11,
 					"name": "mydentist, High Dene, Henfield",
-					"location": { "latitude": 50.9307205, "longitude": -0.2725823 },
+					"location": { "lat": 50.9307205, "lng": -0.2725823 },
 					"address": "Highdene, High St, Henfield BN5 9DA",
 					"addressComponents": [
 						{
@@ -88,7 +88,7 @@
 				{
 					"id": 1,
 					"name": "mydentist, Cantelupe Road, Bexhill-on-Sea",
-					"location": { "latitude": 50.8399022, "longitude": 0.4778717 },
+					"location": { "lat": 50.8399022, "lng": 0.4778717 },
 					"address": "1 Cantelupe Rd, Bexhill-on-Sea TN40 1JG",
 					"addressComponents": [
 						{ "long_name": "1", "short_name": "1", "types": ["street_number"] },
@@ -123,7 +123,7 @@
 				{
 					"id": 3,
 					"name": "mydentist, Sea Road, East Preston",
-					"location": { "latitude": 50.8055698, "longitude": -0.4816213 },
+					"location": { "lat": 50.8055698, "lng": -0.4816213 },
 					"address": "104 Sea Rd, East Preston, Littlehampton BN16 1NP",
 					"addressComponents": [
 						{
@@ -162,10 +162,7 @@
 				{
 					"id": 2,
 					"name": "South Coast Dental Centre",
-					"location": {
-						"latitude": 50.79253019999999,
-						"longitude": -0.0060402
-					},
+					"location": { "lat": 50.79253019999999, "lng": -0.0060402 },
 					"address": "274 S Coast Rd, Peacehaven BN10 7PD",
 					"addressComponents": [
 						{
@@ -204,7 +201,7 @@
 				{
 					"id": 4,
 					"name": "mydentist, Queensway, Bognor Regis",
-					"location": { "latitude": 50.784592, "longitude": -0.675913 },
+					"location": { "lat": 50.784592, "lng": -0.675913 },
 					"address": "51-53 Queensway, Bognor Regis PO21 1QN",
 					"addressComponents": [
 						{
@@ -243,7 +240,7 @@
 				{
 					"id": 5,
 					"name": "mydentist, Medwyn Centre, Dorking",
-					"location": { "latitude": 51.2330117, "longitude": -0.3311321 },
+					"location": { "lat": 51.2330117, "lng": -0.3311321 },
 					"address": "Shopping Centre, Unit 4 St Martin's Walk, Mill Ln, Dorking RH4 1UT",
 					"addressComponents": [
 						{
@@ -287,7 +284,7 @@
 				{
 					"id": 14,
 					"name": "mydentist, Croydon Road, Caterham",
-					"location": { "latitude": 51.2841558, "longitude": -0.0787151 },
+					"location": { "lat": 51.2841558, "lng": -0.0787151 },
 					"address": "64 Croydon Rd, Caterham CR3 6QB",
 					"addressComponents": [
 						{
@@ -326,10 +323,7 @@
 				{
 					"id": 6,
 					"name": "mydentist, Richmond House, Chichester",
-					"location": {
-						"latitude": 50.83465899999999,
-						"longitude": -0.7794572
-					},
+					"location": { "lat": 50.83465899999999, "lng": -0.7794572 },
 					"address": "47 South St, Chichester PO19 1DS",
 					"addressComponents": [
 						{
@@ -368,7 +362,7 @@
 				{
 					"id": 20,
 					"name": "mydentist, High Street, Leatherhead",
-					"location": { "latitude": 51.2953062, "longitude": -0.327184 },
+					"location": { "lat": 51.2953062, "lng": -0.327184 },
 					"address": "28 High St, Leatherhead KT22 8AW",
 					"addressComponents": [
 						{
@@ -407,7 +401,7 @@
 				{
 					"id": 10,
 					"name": "mydentist, Chipstead Valley Road, Coulsdon",
-					"location": { "latitude": 51.3205682, "longitude": -0.1397979 },
+					"location": { "lat": 51.3205682, "lng": -0.1397979 },
 					"address": "48 Chipstead Valley Rd, Coulsdon CR5 2RA",
 					"addressComponents": [
 						{
@@ -446,7 +440,7 @@
 				{
 					"id": 19,
 					"name": "mydentist, Ashley Road, Epsom",
-					"location": { "latitude": 51.3269914, "longitude": -0.2641747 },
+					"location": { "lat": 51.3269914, "lng": -0.2641747 },
 					"address": "38B Ashley Rd, Epsom KT18 5BH",
 					"addressComponents": [
 						{
@@ -485,7 +479,7 @@
 				{
 					"id": 9,
 					"name": "mydentist, Tonbridge Road, Maidstone",
-					"location": { "latitude": 51.26833509999999, "longitude": 0.5017443 },
+					"location": { "lat": 51.26833509999999, "lng": 0.5017443 },
 					"address": "141 Tonbridge Rd, Maidstone ME16 8JS",
 					"addressComponents": [
 						{
@@ -524,7 +518,7 @@
 				{
 					"id": 8,
 					"name": "Seahaven Dental Practice",
-					"location": { "latitude": 50.7934497, "longitude": 0.0487589 },
+					"location": { "lat": 50.7934497, "lng": 0.0487589 },
 					"address": "2D Meeching Rd, Newhaven BN9 9QX",
 					"addressComponents": [
 						{
@@ -583,7 +577,7 @@
 				{
 					"id": 13,
 					"name": "mydentist, London Road, Morden",
-					"location": { "latitude": 51.403304, "longitude": -0.1923088 },
+					"location": { "lat": 51.403304, "lng": -0.1923088 },
 					"address": "18 London Rd, Morden SM4 5HP",
 					"addressComponents": [
 						{
@@ -622,7 +616,7 @@
 				{
 					"id": 15,
 					"name": "mydentist, Streatham High Road, London",
-					"location": { "latitude": 51.43325, "longitude": -0.128721 },
+					"location": { "lat": 51.43325, "lng": -0.128721 },
 					"address": "142 Streatham High Rd, London SW16 1BJ",
 					"addressComponents": [
 						{
@@ -661,10 +655,7 @@
 				{
 					"id": 12,
 					"name": "mydentist, Elwick Road, Ashford",
-					"location": {
-						"latitude": 51.1466034,
-						"longitude": 0.8712936000000001
-					},
+					"location": { "lat": 51.1466034, "lng": 0.8712936000000001 },
 					"address": "4 Elwick Rd, Ashford TN23 1PF",
 					"addressComponents": [
 						{ "long_name": "4", "short_name": "4", "types": ["street_number"] },
@@ -699,7 +690,7 @@
 				{
 					"id": 17,
 					"name": "mydentist, Ewell Road, Surbiton",
-					"location": { "latitude": 51.3826542, "longitude": -0.2855039 },
+					"location": { "lat": 51.3826542, "lng": -0.2855039 },
 					"address": "385-387 Ewell Rd, Surbiton KT6 7DG",
 					"addressComponents": [
 						{
@@ -738,7 +729,7 @@
 				{
 					"id": 18,
 					"name": "mydentist, Sydenham Road, Sydenham",
-					"location": { "latitude": 51.4258449, "longitude": -0.0446994 },
+					"location": { "lat": 51.4258449, "lng": -0.0446994 },
 					"address": "201 Sydenham Rd, London SE26 5HF",
 					"addressComponents": [
 						{
@@ -777,7 +768,7 @@
 				{
 					"id": 16,
 					"name": "mydentist, Abbey Parade, Wimbledon",
-					"location": { "latitude": 51.4159156, "longitude": -0.1852615 },
+					"location": { "lat": 51.4159156, "lng": -0.1852615 },
 					"address": "21 Merton High St, London SW19 1DG",
 					"addressComponents": [
 						{
@@ -825,10 +816,7 @@
 				{
 					"id": 21,
 					"name": "Cycle Solutions (Cycle to Work) Ltd - Head Office",
-					"location": {
-						"latitude": 51.6450714,
-						"longitude": -3.994148199999999
-					},
+					"location": { "lat": 51.6450714, "lng": -3.994148199999999 },
 					"address": "6 Europa Way, Fforest-fach, Swansea SA5 4AJ",
 					"addressComponents": [
 						{ "long_name": "6", "short_name": "6", "types": ["street_number"] },
@@ -872,10 +860,7 @@
 				{
 					"id": 23,
 					"name": "99 Bikes",
-					"location": {
-						"latitude": 50.8361187,
-						"longitude": -0.7680710000000001
-					},
+					"location": { "lat": 50.8361187, "lng": -0.7680710000000001 },
 					"address": "106-108 The Hornet, Chichester PO19 7JR",
 					"addressComponents": [
 						{
@@ -914,7 +899,7 @@
 				{
 					"id": 22,
 					"name": "99 Bikes",
-					"location": { "latitude": 51.5594186, "longitude": -1.8065052 },
+					"location": { "lat": 51.5594186, "lng": -1.8065052 },
 					"address": "Paddington Dr, Swindon SN5 7SB",
 					"addressComponents": [
 						{
@@ -948,7 +933,7 @@
 				{
 					"id": 25,
 					"name": "99 Bikes",
-					"location": { "latitude": 51.0696581, "longitude": -1.295726 },
+					"location": { "lat": 51.0696581, "lng": -1.295726 },
 					"address": "1, Winchester Trade Park, Easton Ln, Winchester SO23 7FA",
 					"addressComponents": [
 						{
@@ -982,7 +967,7 @@
 				{
 					"id": 24,
 					"name": "99 Bikes",
-					"location": { "latitude": 50.91886299999999, "longitude": -1.481172 },
+					"location": { "lat": 50.91886299999999, "lng": -1.481172 },
 					"address": "150 Commercial Rd, Totton, Southampton SO40 3AA",
 					"addressComponents": [
 						{
@@ -1030,7 +1015,7 @@
 				{
 					"id": 26,
 					"name": "Scottsdale Golf",
-					"location": { "latitude": 53.4294462, "longitude": -2.320348 },
+					"location": { "lat": 53.4294462, "lng": -2.320348 },
 					"address": "148 Cross St, Cheshire, Manchester M33 7AQ",
 					"addressComponents": [
 						{
@@ -1069,7 +1054,7 @@
 				{
 					"id": 27,
 					"name": "Scottsdale Golf",
-					"location": { "latitude": 53.356508, "longitude": -2.5340371 },
+					"location": { "lat": 53.356508, "lng": -2.5340371 },
 					"address": "Unit 4c, Stretton Green Distribution Centre, Grappenhall Ln, Appleton Thorn, Warrington WA4 4QT",
 					"addressComponents": [
 						{
@@ -1112,7 +1097,7 @@
 				{
 					"id": 31,
 					"name": "Bonners Music",
-					"location": { "latitude": 50.7964656, "longitude": 0.2827331 },
+					"location": { "lat": 50.7964656, "lng": 0.2827331 },
 					"address": "9 Faraday Cl, Eastbourne BN22 9BH",
 					"addressComponents": [
 						{ "long_name": "9", "short_name": "9", "types": ["street_number"] },
@@ -1147,7 +1132,7 @@
 				{
 					"id": 28,
 					"name": "Bonners CofE Primary School & Nursery",
-					"location": { "latitude": 50.9949884, "longitude": 0.0916116 },
+					"location": { "lat": 50.9949884, "lng": 0.0916116 },
 					"address": "London Rd, Maresfield, Uckfield TN22 2EG",
 					"addressComponents": [
 						{
@@ -1181,7 +1166,7 @@
 				{
 					"id": 30,
 					"name": "Bonners Piano Centre - Reigate",
-					"location": { "latitude": 51.2435925, "longitude": -0.2146433 },
+					"location": { "lat": 51.2435925, "lng": -0.2146433 },
 					"address": "46B Albert Rd N, Reigate RH2 9EL",
 					"addressComponents": [
 						{
@@ -1220,7 +1205,7 @@
 				{
 					"id": 29,
 					"name": "Bonners Fish Bar",
-					"location": { "latitude": 51.5842965, "longitude": -0.0343617 },
+					"location": { "lat": 51.5842965, "lng": -0.0343617 },
 					"address": "144 Northcote Rd, London E17 7EB",
 					"addressComponents": [
 						{
@@ -1268,7 +1253,7 @@
 				{
 					"id": 38,
 					"name": "C W Sellors Jewellers of Chesterfield",
-					"location": { "latitude": 53.2351967, "longitude": -1.4292692 },
+					"location": { "lat": 53.2351967, "lng": -1.4292692 },
 					"address": "C W Sellors Fine Jewellery, 5 Low Pavement, Chesterfield S40 1PF",
 					"addressComponents": [
 						{ "long_name": "5", "short_name": "5", "types": ["street_number"] },
@@ -1303,7 +1288,7 @@
 				{
 					"id": 42,
 					"name": "C W Sellors Jewellers of Ashbourne",
-					"location": { "latitude": 53.0173652, "longitude": -1.733254 },
+					"location": { "lat": 53.0173652, "lng": -1.733254 },
 					"address": "2 Victoria Sq, Market Place, Ashbourne DE6 1GG",
 					"addressComponents": [
 						{ "long_name": "2", "short_name": "2", "types": ["street_number"] },
@@ -1343,7 +1328,7 @@
 				{
 					"id": 32,
 					"name": "C W Sellors Fine Jewellery",
-					"location": { "latitude": 53.2350113, "longitude": -1.4277291 },
+					"location": { "lat": 53.2350113, "lng": -1.4277291 },
 					"address": "Chesterfield S40 1PF",
 					"addressComponents": [
 						{
@@ -1372,7 +1357,7 @@
 				{
 					"id": 36,
 					"name": "C W Sellors Jewellers of Matlock",
-					"location": { "latitude": 53.1383381, "longitude": -1.5558928 },
+					"location": { "lat": 53.1383381, "lng": -1.5558928 },
 					"address": "Crown Square, 6 Snitterton Rd, Matlock DE4 3AT",
 					"addressComponents": [
 						{ "long_name": "6", "short_name": "6", "types": ["street_number"] },
@@ -1407,7 +1392,7 @@
 				{
 					"id": 40,
 					"name": "C W Sellors Jewellers of Bakewell",
-					"location": { "latitude": 53.2123253, "longitude": -1.6748293 },
+					"location": { "lat": 53.2123253, "lng": -1.6748293 },
 					"address": "Royal Oak Place, Matlock St, Bakewell DE45 1EE",
 					"addressComponents": [
 						{
@@ -1441,10 +1426,7 @@
 				{
 					"id": 37,
 					"name": "C W Sellors Fine Jewellers of Ludlow",
-					"location": {
-						"latitude": 52.36798959999999,
-						"longitude": -2.7179417
-					},
+					"location": { "lat": 52.36798959999999, "lng": -2.7179417 },
 					"address": "1 Bull Ring, Ludlow SY8 1AD",
 					"addressComponents": [
 						{ "long_name": "1", "short_name": "1", "types": ["street_number"] },
@@ -1479,7 +1461,7 @@
 				{
 					"id": 39,
 					"name": "C W Sellors",
-					"location": { "latitude": 52.9822476, "longitude": -1.66692 },
+					"location": { "lat": 52.9822476, "lng": -1.66692 },
 					"address": "Painter's Ln, Ashbourne DE6 3AZ",
 					"addressComponents": [
 						{
@@ -1505,7 +1487,7 @@
 				{
 					"id": 33,
 					"name": "C W Sellors",
-					"location": { "latitude": 53.9594799, "longitude": -1.0800013 },
+					"location": { "lat": 53.9594799, "lng": -1.0800013 },
 					"address": "Shambles, York YO1 7LZ",
 					"addressComponents": [
 						{
@@ -1531,7 +1513,7 @@
 				{
 					"id": 41,
 					"name": "C W Sellors Jewellers of Whitby",
-					"location": { "latitude": 54.4875067, "longitude": -0.6126342 },
+					"location": { "lat": 54.4875067, "lng": -0.6126342 },
 					"address": "7 Sandgate, Whitby YO22 4DB",
 					"addressComponents": [
 						{ "long_name": "7", "short_name": "7", "types": ["street_number"] },
@@ -1566,7 +1548,7 @@
 				{
 					"id": 34,
 					"name": "C W Sellors Fine Jewellers of Buxton",
-					"location": { "latitude": 53.259158, "longitude": -1.9129934 },
+					"location": { "lat": 53.259158, "lng": -1.9129934 },
 					"address": "9 Grove Parade, Buxton SK17 6AJ",
 					"addressComponents": [
 						{ "long_name": "9", "short_name": "9", "types": ["street_number"] },
@@ -1601,10 +1583,7 @@
 				{
 					"id": 35,
 					"name": "C W Sellors Jewellers of Chester",
-					"location": {
-						"latitude": 53.19021679999999,
-						"longitude": -2.8915046
-					},
+					"location": { "lat": 53.19021679999999, "lng": -2.8915046 },
 					"address": "2-4 Eastgate St, Chester CH1 1LF",
 					"addressComponents": [
 						{
@@ -1652,10 +1631,7 @@
 				{
 					"id": 43,
 					"name": "Greenford Celtic Fc",
-					"location": {
-						"latitude": 51.53093089999999,
-						"longitude": -0.3423106
-					},
+					"location": { "lat": 51.53093089999999, "lng": -0.3423106 },
 					"address": "Greenford UB6 8HH",
 					"addressComponents": [
 						{
@@ -1676,7 +1652,7 @@
 				{
 					"id": 49,
 					"name": "Celtic Supporters Club",
-					"location": { "latitude": 51.8756044, "longitude": -0.4099755 },
+					"location": { "lat": 51.8756044, "lng": -0.4099755 },
 					"address": "Chobham St, Luton LU1 3BS",
 					"addressComponents": [
 						{
@@ -1710,10 +1686,7 @@
 				{
 					"id": 46,
 					"name": "St. Peters Celtic Football Club",
-					"location": {
-						"latitude": 52.32002629999999,
-						"longitude": -1.5452799
-					},
+					"location": { "lat": 52.32002629999999, "lng": -1.5452799 },
 					"address": "Celtic Park, Kenilworth Rd, Blackdown, Leamington Spa CV32 6QT",
 					"addressComponents": [
 						{
@@ -1747,7 +1720,7 @@
 				{
 					"id": 50,
 					"name": "Cwmbran Celtic AFC",
-					"location": { "latitude": 51.6437039, "longitude": -3.0181782 },
+					"location": { "lat": 51.6437039, "lng": -3.0181782 },
 					"address": "Celtic Park, Henllys Way, Cwmbran NP44 3FS",
 					"addressComponents": [
 						{
@@ -1773,7 +1746,7 @@
 				{
 					"id": 44,
 					"name": "Brentside Playing Fields",
-					"location": { "latitude": 51.5267695, "longitude": -0.3478684 },
+					"location": { "lat": 51.5267695, "lng": -0.3478684 },
 					"address": "Ruislip Rd E, Greenford UB6 9FH",
 					"addressComponents": [
 						{
@@ -1807,7 +1780,7 @@
 				{
 					"id": 47,
 					"name": "Gregory Celtic Football Club",
-					"location": { "latitude": 52.2438644, "longitude": -0.9536973 },
+					"location": { "lat": 52.2438644, "lng": -0.9536973 },
 					"address": "St Crispin Dr, Upton, Northampton NN5 4GJ",
 					"addressComponents": [
 						{
@@ -1833,7 +1806,7 @@
 				{
 					"id": 48,
 					"name": "The Celtic Jersey",
-					"location": { "latitude": 51.4078674, "longitude": -0.3074659 },
+					"location": { "lat": 51.4078674, "lng": -0.3074659 },
 					"address": "19-23 High St, Kingston upon Thames KT1 1LL",
 					"addressComponents": [
 						{
@@ -1864,7 +1837,7 @@
 				{
 					"id": 45,
 					"name": "Gregory Celtic Football Club",
-					"location": { "latitude": 52.2640623, "longitude": -0.8152379 },
+					"location": { "lat": 52.2640623, "lng": -0.8152379 },
 					"address": "32 Cowgill Cl, Northampton NN3 8PB",
 					"addressComponents": [
 						{
@@ -1895,7 +1868,7 @@
 				{
 					"id": 54,
 					"name": "Stalybridge Celtic F C",
-					"location": { "latitude": 53.4753205, "longitude": -2.0431362 },
+					"location": { "lat": 53.4753205, "lng": -2.0431362 },
 					"address": "Bower Fold, Mottram Rd, Stalybridge SK15 2RT",
 					"addressComponents": [
 						{
@@ -1929,7 +1902,7 @@
 				{
 					"id": 61,
 					"name": "Westbury Celtic FC",
-					"location": { "latitude": 52.2609715, "longitude": -2.1579524 },
+					"location": { "lat": 52.2609715, "lng": -2.1579524 },
 					"address": "Old Coach Rd, Droitwich WR9 8BD",
 					"addressComponents": [
 						{
@@ -1955,7 +1928,7 @@
 				{
 					"id": 51,
 					"name": "Cwmbran Celtic Sports & Social Club",
-					"location": { "latitude": 51.6470861, "longitude": -3.0247346 },
+					"location": { "lat": 51.6470861, "lng": -3.0247346 },
 					"address": "Oak St, Cwmbran NP44 3LT",
 					"addressComponents": [
 						{
@@ -1981,7 +1954,7 @@
 				{
 					"id": 60,
 					"name": "Celtic FC",
-					"location": { "latitude": 55.84929899999999, "longitude": -4.206338 },
+					"location": { "lat": 55.84929899999999, "lng": -4.206338 },
 					"address": "The Celtic Way, Glasgow G40 3RE",
 					"addressComponents": [
 						{
@@ -2015,10 +1988,7 @@
 				{
 					"id": 55,
 					"name": "Wythenshawe Celtic FC",
-					"location": {
-						"latitude": 53.38344619999999,
-						"longitude": -2.2903004
-					},
+					"location": { "lat": 53.38344619999999, "lng": -2.2903004 },
 					"address": "Greenbrow Rd, Wythenshawe, Manchester M23 2SX",
 					"addressComponents": [
 						{
@@ -2052,7 +2022,7 @@
 				{
 					"id": 52,
 					"name": "Farsley Celtic Football Club",
-					"location": { "latitude": 53.8092412, "longitude": -1.6656973 },
+					"location": { "lat": 53.8092412, "lng": -1.6656973 },
 					"address": "The Citadel, Newlands, Farsley, Pudsey LS28 5BE",
 					"addressComponents": [
 						{
@@ -2086,10 +2056,7 @@
 				{
 					"id": 58,
 					"name": "Knaresborough Celtic Football Club",
-					"location": {
-						"latitude": 53.99013619999999,
-						"longitude": -1.4692266
-					},
+					"location": { "lat": 53.99013619999999, "lng": -1.4692266 },
 					"address": "Thistle Hill, Knaresborough HG5 8LS",
 					"addressComponents": [
 						{
@@ -2115,7 +2082,7 @@
 				{
 					"id": 62,
 					"name": "Stalybridge Celtic Juniors",
-					"location": { "latitude": 53.498329, "longitude": -2.0643208 },
+					"location": { "lat": 53.498329, "lng": -2.0643208 },
 					"address": "Mossley Rd, Ashton-under-Lyne OL6 9DQ",
 					"addressComponents": [
 						{
@@ -2149,7 +2116,7 @@
 				{
 					"id": 59,
 					"name": "Celtic FC Womens",
-					"location": { "latitude": 55.8496983, "longitude": -4.2056394 },
+					"location": { "lat": 55.8496983, "lng": -4.2056394 },
 					"address": "The Celtic Way, Glasgow G40 3RE",
 					"addressComponents": [
 						{
@@ -2183,10 +2150,7 @@
 				{
 					"id": 57,
 					"name": "Ballyowen Celtic F.C.",
-					"location": {
-						"latitude": 53.34764999999999,
-						"longitude": -6.436485999999999
-					},
+					"location": { "lat": 53.34764999999999, "lng": -6.436485999999999 },
 					"address": "Griffeen Valley Park, Glebe, Lucan, Co. Dublin, Ireland",
 					"addressComponents": [
 						{
@@ -2207,10 +2171,7 @@
 				{
 					"id": 53,
 					"name": "Howth Celtic Football Club",
-					"location": {
-						"latitude": 53.3799456,
-						"longitude": -6.092662199999999
-					},
+					"location": { "lat": 53.3799456, "lng": -6.092662199999999 },
 					"address": "Carrickbrack Rd, Sutton North, Dublin, Ireland",
 					"addressComponents": [
 						{
@@ -2226,7 +2187,7 @@
 				{
 					"id": 56,
 					"name": "Finglas Celtic FC",
-					"location": { "latitude": 53.384601, "longitude": -6.3187503 },
+					"location": { "lat": 53.384601, "lng": -6.3187503 },
 					"address": "Kilshane Rd, Finglas West, Dublin, D11 VX43, Ireland",
 					"addressComponents": [
 						{
@@ -2269,10 +2230,7 @@
 				{
 					"id": 63,
 					"name": "Sarah Layton Jewellers",
-					"location": {
-						"latitude": 53.82194939999999,
-						"longitude": -2.4069317
-					},
+					"location": { "lat": 53.82194939999999, "lng": -2.4069317 },
 					"address": "71 King St, Whalley, Clitheroe BB7 9SW",
 					"addressComponents": [
 						{
@@ -2320,7 +2278,7 @@
 				{
 					"id": 64,
 					"name": "Boutique Camping",
-					"location": { "latitude": 51.469565, "longitude": -0.128225 },
+					"location": { "lat": 51.469565, "lng": -0.128225 },
 					"address": "2G Union Court 20-22 Union Road, Union Ct, London SW4 6JP",
 					"addressComponents": [
 						{
@@ -2354,7 +2312,7 @@
 				{
 					"id": 68,
 					"name": "Vintents - Classic Canvas Glamping",
-					"location": { "latitude": 50.8559728, "longitude": 0.1472778 },
+					"location": { "lat": 50.8559728, "lng": 0.1472778 },
 					"address": "Unit 10, Selmeston, Polegate BN26 6TU",
 					"addressComponents": [
 						{
@@ -2375,7 +2333,7 @@
 				{
 					"id": 66,
 					"name": "Bell Tent Company",
-					"location": { "latitude": 50.8591077, "longitude": -0.1049315 },
+					"location": { "lat": 50.8591077, "lng": -0.1049315 },
 					"address": "5 Rushlake Rd, Brighton, Brighton and Hove, Brighton BN1 9AE",
 					"addressComponents": [
 						{ "long_name": "5", "short_name": "5", "types": ["street_number"] },
@@ -2415,7 +2373,7 @@
 				{
 					"id": 69,
 					"name": "Stud Farm Campsite, Telscombe Village",
-					"location": { "latitude": 50.8105257, "longitude": -0.0100097 },
+					"location": { "lat": 50.8105257, "lng": -0.0100097 },
 					"address": "Telscombe, Lewes BN7 3HZ",
 					"addressComponents": [
 						{
@@ -2444,7 +2402,7 @@
 				{
 					"id": 74,
 					"name": "Beneath the Canopy",
-					"location": { "latitude": 50.8098316, "longitude": 0.2455031 },
+					"location": { "lat": 50.8098316, "lng": 0.2455031 },
 					"address": "39 Coppice Ave, Willingdon, Eastbourne BN20 9PP",
 					"addressComponents": [
 						{
@@ -2488,7 +2446,7 @@
 				{
 					"id": 72,
 					"name": "Love Canvas Ltd",
-					"location": { "latitude": 50.821977, "longitude": 0.2716557 },
+					"location": { "lat": 50.821977, "lng": 0.2716557 },
 					"address": "Unit 21, Connect 27 Business Park, Polegate BN26 6GP",
 					"addressComponents": [
 						{
@@ -2517,10 +2475,7 @@
 				{
 					"id": 73,
 					"name": "Plush Tents Yurt Village",
-					"location": {
-						"latitude": 50.86060029999999,
-						"longitude": -0.8171624
-					},
+					"location": { "lat": 50.86060029999999, "lng": -0.8171624 },
 					"address": "Chapel Ln, Chichester PO18 9AW",
 					"addressComponents": [
 						{
@@ -2554,7 +2509,7 @@
 				{
 					"id": 67,
 					"name": "Highway Hill Boutique Camping",
-					"location": { "latitude": 51.4690307, "longitude": -1.9412056 },
+					"location": { "lat": 51.4690307, "lng": -1.9412056 },
 					"address": "The Barnyard, Highway, Swindon, Calne SN11 8SR",
 					"addressComponents": [
 						{
@@ -2583,7 +2538,7 @@
 				{
 					"id": 70,
 					"name": "Meadow Breeze Glamping",
-					"location": { "latitude": 51.041224, "longitude": 0.4261056 },
+					"location": { "lat": 51.041224, "lng": 0.4261056 },
 					"address": "Gibbs Reed Farm, Pashley Rd, Ticehurst, Wadhurst TN5 7HE",
 					"addressComponents": [
 						{
@@ -2617,7 +2572,7 @@
 				{
 					"id": 65,
 					"name": "The Secret Campsite",
-					"location": { "latitude": 50.9397757, "longitude": 0.0090653 },
+					"location": { "lat": 50.9397757, "lng": 0.0090653 },
 					"address": "Brickyard Farm, Town Littleworth Rd, Lewes BN8 4TD",
 					"addressComponents": [
 						{
@@ -2663,7 +2618,7 @@
 				{
 					"id": 75,
 					"name": "Kymani Getaways",
-					"location": { "latitude": 51.1941657, "longitude": -0.068992 },
+					"location": { "lat": 51.1941657, "lng": -0.068992 },
 					"address": "Byers Ln, Godstone RH9 8JH",
 					"addressComponents": [
 						{
@@ -2689,7 +2644,7 @@
 				{
 					"id": 71,
 					"name": "Boutique Camps",
-					"location": { "latitude": 50.8802408, "longitude": -3.9165931 },
+					"location": { "lat": 50.8802408, "lng": -3.9165931 },
 					"address": "Lane End Farm, Chulmleigh EX18 7QA",
 					"addressComponents": [
 						{
@@ -2727,7 +2682,7 @@
 				{
 					"id": 76,
 					"name": "American Golf - Brighton",
-					"location": { "latitude": 50.8412334, "longitude": -0.2502271 },
+					"location": { "lat": 50.8412334, "lng": -0.2502271 },
 					"address": "2-3 Royal George Parade, Shoreham-by-Sea BN43 6TB",
 					"addressComponents": [
 						{
@@ -2766,7 +2721,7 @@
 				{
 					"id": 79,
 					"name": "American Golf - Tonbridge",
-					"location": { "latitude": 51.198269, "longitude": 0.284794 },
+					"location": { "lat": 51.198269, "lng": 0.284794 },
 					"address": "Golf Centre, Cannon Ln, Tonbridge TN9 1PP",
 					"addressComponents": [
 						{
@@ -2800,7 +2755,7 @@
 				{
 					"id": 81,
 					"name": "American Golf - Rustington",
-					"location": { "latitude": 50.8221702, "longitude": -0.5026256 },
+					"location": { "lat": 50.8221702, "lng": -0.5026256 },
 					"address": "Golfers Ln, Angmering, Littlehampton BN16 4NB",
 					"addressComponents": [
 						{
@@ -2834,7 +2789,7 @@
 				{
 					"id": 83,
 					"name": "American Golf - Sidcup",
-					"location": { "latitude": 51.4314598, "longitude": 0.0768623 },
+					"location": { "lat": 51.4314598, "lng": 0.0768623 },
 					"address": "A20 Sidcup By-Pass, London BR7 6RP",
 					"addressComponents": [
 						{
@@ -2873,7 +2828,7 @@
 				{
 					"id": 77,
 					"name": "American Golf",
-					"location": { "latitude": 51.50968, "longitude": -0.086182 },
+					"location": { "lat": 51.50968, "lng": -0.086182 },
 					"address": "30 Fish St Hill, Monument St, London EC3R 6DN",
 					"addressComponents": [
 						{
@@ -2917,7 +2872,7 @@
 				{
 					"id": 94,
 					"name": "American Golf - London - Greenwich",
-					"location": { "latitude": 51.4980801, "longitude": 0.0009369 },
+					"location": { "lat": 51.4980801, "lng": 0.0009369 },
 					"address": "Peninsula Golf Range, Greenwich, 265, Tunnel Ave, London SE10 0QE",
 					"addressComponents": [
 						{
@@ -2951,7 +2906,7 @@
 				{
 					"id": 82,
 					"name": "American Golf - New Malden",
-					"location": { "latitude": 51.4040487, "longitude": -0.2431344 },
+					"location": { "lat": 51.4040487, "lng": -0.2431344 },
 					"address": "Beverly Park, Beverley Way, New Malden KT3 4PH",
 					"addressComponents": [
 						{
@@ -2985,7 +2940,7 @@
 				{
 					"id": 78,
 					"name": "American Golf - Camberley",
-					"location": { "latitude": 51.3488841, "longitude": -0.7134419 },
+					"location": { "lat": 51.3488841, "lng": -0.7134419 },
 					"address": "1 London Rd, Camberley GU15 3UZ",
 					"addressComponents": [
 						{ "long_name": "1", "short_name": "1", "types": ["street_number"] },
@@ -3020,7 +2975,7 @@
 				{
 					"id": 80,
 					"name": "American Golf - Thurrock",
-					"location": { "latitude": 51.48494119999999, "longitude": 0.2729853 },
+					"location": { "lat": 51.48494119999999, "lng": 0.2729853 },
 					"address": "Tunnel Industrial Estate, 8 Weston Ave, West Thurrock, Grays RM20 3LR",
 					"addressComponents": [
 						{ "long_name": "8", "short_name": "8", "types": ["street_number"] },
@@ -3060,7 +3015,7 @@
 				{
 					"id": 92,
 					"name": "American Golf - Guildford",
-					"location": { "latitude": 51.2312454, "longitude": -0.6102948 },
+					"location": { "lat": 51.2312454, "lng": -0.6102948 },
 					"address": "Road, A3 By-Pass Guildford and Godalming Bypass Portsmouth, Guildford GU2 7RZ",
 					"addressComponents": [
 						{
@@ -3089,7 +3044,7 @@
 				{
 					"id": 87,
 					"name": "American Golf - Sandown",
-					"location": { "latitude": 51.376231, "longitude": -0.364788 },
+					"location": { "lat": 51.376231, "lng": -0.364788 },
 					"address": "Sandown Park, More Ln, Esher KT10 8AN",
 					"addressComponents": [
 						{
@@ -3123,7 +3078,7 @@
 				{
 					"id": 89,
 					"name": "American Golf - London - Trent Park",
-					"location": { "latitude": 51.6492107, "longitude": -0.1311148 },
+					"location": { "lat": 51.6492107, "lng": -0.1311148 },
 					"address": "Trent Park Golf Club, Bramley Rd, London N14 4UW",
 					"addressComponents": [
 						{
@@ -3157,7 +3112,7 @@
 				{
 					"id": 90,
 					"name": "American Golf - Watford",
-					"location": { "latitude": 51.672208, "longitude": -0.379166 },
+					"location": { "lat": 51.672208, "lng": -0.379166 },
 					"address": "Clubhouse, American Golf Clubhouse, Bushey Mill Ln, Watford WD24 7AB",
 					"addressComponents": [
 						{
@@ -3191,7 +3146,7 @@
 				{
 					"id": 84,
 					"name": "American Golf - Southampton",
-					"location": { "latitude": 50.9241454, "longitude": -1.310523 },
+					"location": { "lat": 50.9241454, "lng": -1.310523 },
 					"address": "Hedge End Trade Park, Tollbar Way, Southampton SO30 2JN",
 					"addressComponents": [
 						{
@@ -3225,7 +3180,7 @@
 				{
 					"id": 91,
 					"name": "American Golf - Canterbury",
-					"location": { "latitude": 51.2728292, "longitude": 1.0670065 },
+					"location": { "lat": 51.2728292, "lng": 1.0670065 },
 					"address": "26 Maynard Rd, Wincheap Industrial Estate, Canterbury CT1 3RH",
 					"addressComponents": [
 						{
@@ -3269,7 +3224,7 @@
 				{
 					"id": 86,
 					"name": "American Golf - Basingstoke",
-					"location": { "latitude": 51.2358276, "longitude": -1.1379753 },
+					"location": { "lat": 51.2358276, "lng": -1.1379753 },
 					"address": "American Golf, 5 Wallop Dr, Basingstoke RG22 4TW",
 					"addressComponents": [
 						{ "long_name": "5", "short_name": "5", "types": ["street_number"] },
@@ -3304,7 +3259,7 @@
 				{
 					"id": 93,
 					"name": "American Golf - Hendon",
-					"location": { "latitude": 51.604858, "longitude": -0.2244652 },
+					"location": { "lat": 51.604858, "lng": -0.2244652 },
 					"address": "Barnet Copthall Champions Way, Hendon Metro Golf Centre, London NW4 1PX",
 					"addressComponents": [
 						{
@@ -3333,7 +3288,7 @@
 				{
 					"id": 95,
 					"name": "American Golf - Northolt",
-					"location": { "latitude": 51.5421318, "longitude": -0.3956989 },
+					"location": { "lat": 51.5421318, "lng": -0.3956989 },
 					"address": "W End Rd, Northolt UB5 6QZ",
 					"addressComponents": [
 						{
@@ -3367,7 +3322,7 @@
 				{
 					"id": 85,
 					"name": "American Golf - Slough",
-					"location": { "latitude": 51.513427, "longitude": -0.618109 },
+					"location": { "lat": 51.513427, "lng": -0.618109 },
 					"address": "American Golf, 175 Bath Rd, Slough SL1 4AA",
 					"addressComponents": [
 						{
@@ -3406,7 +3361,7 @@
 				{
 					"id": 88,
 					"name": "American Golf - Chadwell Heath",
-					"location": { "latitude": 51.5781132, "longitude": 0.1416355 },
+					"location": { "lat": 51.5781132, "lng": 0.1416355 },
 					"address": "Golf Kingdom, Whalebone Ln N, Romford RM6 6SB",
 					"addressComponents": [
 						{
@@ -3449,7 +3404,7 @@
 				{
 					"id": 99,
 					"name": "Easy Bathrooms & Tiles",
-					"location": { "latitude": 50.8385505, "longitude": -0.1905056 },
+					"location": { "lat": 50.8385505, "lng": -0.1905056 },
 					"address": "Unit 1, Delphi Close, English Cl, Hove, Brighton and Hove, Hove BN3 7EE",
 					"addressComponents": [
 						{
@@ -3488,7 +3443,7 @@
 				{
 					"id": 96,
 					"name": "Easy Bathrooms & Tiles",
-					"location": { "latitude": 50.9687023, "longitude": 0.0923373 },
+					"location": { "lat": 50.9687023, "lng": 0.0923373 },
 					"address": "Unit 5, Bellbrook Industrial Estate, Uckfield TN22 1QL",
 					"addressComponents": [
 						{
@@ -3522,7 +3477,7 @@
 				{
 					"id": 98,
 					"name": "Easy Bathrooms & Tiles",
-					"location": { "latitude": 51.11392, "longitude": -0.1807456 },
+					"location": { "lat": 51.11392, "lng": -0.1807456 },
 					"address": "Unit 1A, Denvale Trade Park, Denvale Retail Park, Haslett Ave E, Crawley RH10 1SS",
 					"addressComponents": [
 						{
@@ -3556,7 +3511,7 @@
 				{
 					"id": 97,
 					"name": "Easy Bathrooms & Tiles",
-					"location": { "latitude": 51.15424429999999, "longitude": 0.2860177 },
+					"location": { "lat": 51.15424429999999, "lng": 0.2860177 },
 					"address": "Unit 2, Stag Park, Longfield Rd, Tunbridge Wells TN2 3BF",
 					"addressComponents": [
 						{
@@ -3590,7 +3545,7 @@
 				{
 					"id": 104,
 					"name": "Easy Bathrooms & Tiles",
-					"location": { "latitude": 51.0289473, "longitude": -0.4451877 },
+					"location": { "lat": 51.0289473, "lng": -0.4451877 },
 					"address": "Unit 1, Trade Park, Stane St, Billingshurst RH14 9HN",
 					"addressComponents": [
 						{
@@ -3624,7 +3579,7 @@
 				{
 					"id": 100,
 					"name": "Easy Bathrooms & Tiles",
-					"location": { "latitude": 51.3917207, "longitude": 0.1102586 },
+					"location": { "lat": 51.3917207, "lng": 0.1102586 },
 					"address": "Unit 3, Sun Business Park, Cray Ave., Orpington BR5 3FQ",
 					"addressComponents": [
 						{
@@ -3658,7 +3613,7 @@
 				{
 					"id": 107,
 					"name": "Easy Bathrooms and Tiles",
-					"location": { "latitude": 50.8311916, "longitude": -0.755973 },
+					"location": { "lat": 50.8311916, "lng": -0.755973 },
 					"address": "Unit 1A, Portfield Trade Park, Chichester PO19 8NS",
 					"addressComponents": [
 						{
@@ -3687,7 +3642,7 @@
 				{
 					"id": 103,
 					"name": "Easy Bathrooms & Tiles",
-					"location": { "latitude": 51.4193803, "longitude": 0.3574488 },
+					"location": { "lat": 51.4193803, "lng": 0.3574488 },
 					"address": "Unit 6, Trade City, Coldharbour Rd, Northfleet, Gravesend DA11 8AB",
 					"addressComponents": [
 						{
@@ -3721,7 +3676,7 @@
 				{
 					"id": 114,
 					"name": "Easy Bathrooms & Tiles",
-					"location": { "latitude": 51.15143579999999, "longitude": 0.8548535 },
+					"location": { "lat": 51.15143579999999, "lng": 0.8548535 },
 					"address": "Unit D, 3-4 Hilton Rd, Ashford TN23 1EW",
 					"addressComponents": [
 						{
@@ -3760,7 +3715,7 @@
 				{
 					"id": 109,
 					"name": "Easy Bathrooms & Tiles",
-					"location": { "latitude": 51.5689903, "longitude": -0.2290778 },
+					"location": { "lat": 51.5689903, "lng": -0.2290778 },
 					"address": "Unit C, Staples Corner Retail Park, Brent Cross, London NW2 6LW",
 					"addressComponents": [
 						{
@@ -3789,7 +3744,7 @@
 				{
 					"id": 101,
 					"name": "Easy Bathrooms & Tiles",
-					"location": { "latitude": 51.289669, "longitude": -0.7637681 },
+					"location": { "lat": 51.289669, "lng": -0.7637681 },
 					"address": "Unit 4 & 5, Kingsgrove Trade Park, Invincible Rd, Farnborough GU14 7SS",
 					"addressComponents": [
 						{
@@ -3823,7 +3778,7 @@
 				{
 					"id": 105,
 					"name": "Easy Bathrooms & Tiles",
-					"location": { "latitude": 51.4976421, "longitude": -0.4039596 },
+					"location": { "lat": 51.4976421, "lng": -0.4039596 },
 					"address": "Unit 2, Trade City, Hayes Rd, Hayes, Hounslow, Southall UB2 5BE",
 					"addressComponents": [
 						{
@@ -3857,10 +3812,7 @@
 				{
 					"id": 112,
 					"name": "Easy Bathrooms & Tiles",
-					"location": {
-						"latitude": 50.8496129,
-						"longitude": -0.9913571000000001
-					},
+					"location": { "lat": 50.8496129, "lng": -0.9913571000000001 },
 					"address": "Solent Trade Park, Unit 8C, (Unit 3D, Havant PO9 1JH",
 					"addressComponents": [
 						{
@@ -3889,7 +3841,7 @@
 				{
 					"id": 113,
 					"name": "Easy Bathrooms & Tiles",
-					"location": { "latitude": 51.3703096, "longitude": -0.4750711 },
+					"location": { "lat": 51.3703096, "lng": -0.4750711 },
 					"address": "Waterside Trading Estate, Hamm Moor Ln, Weybridge, Addlestone, 10A KT15 2SD",
 					"addressComponents": [
 						{
@@ -3923,7 +3875,7 @@
 				{
 					"id": 108,
 					"name": "Easy Bathrooms & Tiles",
-					"location": { "latitude": 51.6112505, "longitude": -0.041517 },
+					"location": { "lat": 51.6112505, "lng": -0.041517 },
 					"address": "Unit 1E, ravenside retail park, Ravenside Cl, London N18 3HA",
 					"addressComponents": [
 						{
@@ -3957,7 +3909,7 @@
 				{
 					"id": 115,
 					"name": "Easy Bathrooms & Tiles",
-					"location": { "latitude": 51.59157769999999, "longitude": 0.2156181 },
+					"location": { "lat": 51.59157769999999, "lng": 0.2156181 },
 					"address": "Gallows Corner, Unit 3, Burney Trade Park, Southend Arterial Rd, Romford RM3 0EZ",
 					"addressComponents": [
 						{
@@ -3991,7 +3943,7 @@
 				{
 					"id": 102,
 					"name": "Easy Bathrooms & Tiles",
-					"location": { "latitude": 51.4870672, "longitude": 0.2757927 },
+					"location": { "lat": 51.4870672, "lng": 0.2757927 },
 					"address": "Lakeside Retail Park, Unit D1B RM20 1WN",
 					"addressComponents": [
 						{
@@ -4025,7 +3977,7 @@
 				{
 					"id": 106,
 					"name": "Easy Bathrooms & Tiles",
-					"location": { "latitude": 51.4919739, "longitude": -0.3036186 },
+					"location": { "lat": 51.4919739, "lng": -0.3036186 },
 					"address": "Unit 3a, Phoenix Trade Park, Brentford TW8 9PL",
 					"addressComponents": [
 						{
@@ -4054,7 +4006,7 @@
 				{
 					"id": 110,
 					"name": "Easy Bathrooms & Tiles",
-					"location": { "latitude": 51.5231319, "longitude": 0.0707954 },
+					"location": { "lat": 51.5231319, "lng": 0.0707954 },
 					"address": "Beckton Triangle Retail Park, 1A, Claps Gate Ln E6 6LH",
 					"addressComponents": [
 						{
@@ -4088,10 +4040,7 @@
 				{
 					"id": 111,
 					"name": "Easy Bathrooms & Tiles",
-					"location": {
-						"latitude": 50.79782849999999,
-						"longitude": -1.0675498
-					},
+					"location": { "lat": 50.79782849999999, "lng": -1.0675498 },
 					"address": "Unit 10, The Pompey Centre, Dickinson Rd, Southsea, Portsmouth, Southsea PO4 8ER",
 					"addressComponents": [
 						{
