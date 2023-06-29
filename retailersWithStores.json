@@ -4,7 +4,7 @@
 			"name": "MyDentist",
 			"url": "https://www.mydentist.co.uk/",
 			"category": "Healthcare",
-			"image": "https://apptopay.com/img/clients/mydentist.jpg",
+			"image": "https://atp-directory.s3.eu-west-2.amazonaws.com/MyDentist.jpg",
 			"id": 73,
 			"stores": [
 				{
@@ -819,7 +819,7 @@
 			"name": "Cycle Solutions (Cycle to Work)",
 			"url": "https://www.cyclesolutions.co.uk/",
 			"category": "Leisure and Lifestyle",
-			"image": "https://apptopay.com/img/clients/cycle-solutions.jpg",
+			"image": "https://atp-directory.s3.eu-west-2.amazonaws.com/CycleSolutions.jpg",
 			"id": 79,
 			"stores": [
 				{
@@ -866,7 +866,7 @@
 			"name": "Hargroves Cycles",
 			"url": "https://www.hargrovescycles.co.uk/",
 			"category": "Leisure and Lifestyle",
-			"image": null,
+			"image": "https://atp-directory.s3.eu-west-2.amazonaws.com/99Bikes.jpg",
 			"id": 80,
 			"stores": [
 				{
@@ -1024,7 +1024,7 @@
 			"name": "Scottsdale Golf (U.K)",
 			"url": "https://www.scottsdalegolf.co.uk/",
 			"category": "Leisure and Lifestyle",
-			"image": "https://apptopay.com/img/clients/scottsdale.png",
+			"image": "https://atp-directory.s3.eu-west-2.amazonaws.com/Scottsdale.png",
 			"id": 81,
 			"stores": [
 				{
@@ -1106,7 +1106,7 @@
 			"name": "Bonners",
 			"url": "https://www.bonnersmusic.co.uk/",
 			"category": "Music",
-			"image": "https://apptopay.com/img/clients/bonners.jpg",
+			"image": "https://atp-directory.s3.eu-west-2.amazonaws.com/Bonners.jpg",
 			"id": 83,
 			"stores": [
 				{
@@ -1262,7 +1262,7 @@
 			"name": "CW Sellors",
 			"url": "https://www.cwsellors.co.uk/",
 			"category": "Jewellery",
-			"image": "https://apptopay.com/img/clients/cw-sellors.jpg",
+			"image": "https://atp-directory.s3.eu-west-2.amazonaws.com/CWSellors.jpg",
 			"id": 75,
 			"stores": [
 				{
@@ -1638,7 +1638,7 @@
 			"name": "Sarah Layton Fine Jewellery",
 			"url": "https://sarahlayton.co.uk/",
 			"category": "Jewellery",
-			"image": "https://apptopay.com/img/clients/sarah-layton.jpg",
+			"image": "https://atp-directory.s3.eu-west-2.amazonaws.com/SarahLaytonFineJewellery.png",
 			"id": 76,
 			"stores": [
 				{
@@ -1689,7 +1689,7 @@
 			"name": "Boutique Camping",
 			"url": "https://boutiquecamping.com/",
 			"category": "Leisure and Lifestyle",
-			"image": "https://www.apptopay.com/img/clients/boutique-camping.jpg",
+			"image": "https://atp-directory.s3.eu-west-2.amazonaws.com/BoutiqueCamping.jpg",
 			"id": 78,
 			"stores": [
 				{
@@ -2454,7 +2454,7 @@
 			"name": "Easy Bathrooms",
 			"url": "https://www.easybathrooms.com/",
 			"category": "Home Improvements",
-			"image": "https://apptopay.com/img/clients/easy-bathrooms.jpg",
+			"image": "https://atp-directory.s3.eu-west-2.amazonaws.com/EasyBathrooms.jpg",
 			"id": 74,
 			"stores": [
 				{
